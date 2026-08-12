@@ -97,9 +97,9 @@
         "oldPrice": null ,
         "mainImage": "https://www.rampage.com.tr/cdn/shop/files/11985.png?v=1767616064&width=600",
         "images": [
-          "https://www.rampage.com.tr/cdn/shop/files/row-1-column-1_ee1f60e2-153a-433a-be20-ea86769d9eec.jpg?v=1780666625&width=2000",
-          "https://www.rampage.com.tr/cdn/shop/files/row-2-column-1_68fb0f74-2e7a-4236-8641-c7804bb65fab.jpg?v=1780666624&width=2000",
-          "https://www.rampage.com.tr/cdn/shop/files/row-3-column-1_ab4570c2-5e19-45b5-af6a-a86f57b3adfa.jpg?v=1780666624&width=2000",
+          "https://www.rampage.com.tr/cdn/shop/files/11980.png?v=1767616064&width=600",
+          "https://www.rampage.com.tr/cdn/shop/files/11983.png?v=1767616064&width=600",
+          "https://www.rampage.com.tr/cdn/shop/files/11986.png?v=1767616064&width=600",
           "https://www.rampage.com.tr/cdn/shop/files/row-4-column-1_ad32716e-3aa4-4e2a-a836-e9b3fa86df58.jpg?v=1780666613&width=2000"
         ]
       }
@@ -116,9 +116,10 @@
     "technicalSpecs": {
       "type": "images",
       "images": [
-        "https://www.rampage.com.tr/cdn/shop/files/vector_spec_1.png",
-        "https://www.rampage.com.tr/cdn/shop/files/vector_spec_2.png",
-        "https://www.rampage.com.tr/cdn/shop/files/vector_spec_3.png"
+        "https://www.rampage.com.tr/cdn/shop/files/row-1-column-1_ee1f60e2-153a-433a-be20-ea86769d9eec.jpg?v=1780666625&width=2000",
+        "https://www.rampage.com.tr/cdn/shop/files/row-2-column-1_68fb0f74-2e7a-4236-8641-c7804bb65fab.jpg?v=1780666624&width=2000",
+        "https://www.rampage.com.tr/cdn/shop/files/row-3-column-1_ab4570c2-5e19-45b5-af6a-a86f57b3adfa.jpg?v=1780666624&width=2000",
+        "https://www.rampage.com.tr/cdn/shop/files/row-4-column-1_ad32716e-3aa4-4e2a-a836-e9b3fa86df58.jpg?v=1780666613&width=2000"
       ],
       "data": []
     }
