@@ -3,6 +3,14 @@
     "id": 1,
     "slug": "retsu-protein-earpad-kablosuz-mikrofonlu-oyuncu-kulakligi",
     "title": "RETSU",
+    "inStock": true,
+    "filters": {
+      "uyumluluk": ["PC", "PS4", "PS5", "Mobil"],
+      "baglantiTeknolojisi": ["Kablosuz", "Bluetooth"],
+      "kulaklikTipi": "Kulak Üstü",
+      "urunTuru": "Oyuncu Kulaklıkları",
+      "renkler": ["siyah", "gri", "beyaz"]
+    },
     "subtitle": "Protein Earpad Kablosuz Mikrofonlu Oyuncu Kulaklığı",
     "categoryName": "Kulaklık ve Mikrofon",
     "price": 2899,
@@ -66,6 +74,14 @@
     "id": 2,
     "slug": "blitz-kablosuz-mikrofonlu-oyuncu-kulakligi",
     "title": "BLITZ",
+    "inStock": true,
+    "filters": {
+      "uyumluluk": ["PC", "PS4", "PS5", "Mobil"],
+      "baglantiTeknolojisi": ["Kablosuz", "Bluetooth"],
+      "kulaklikTipi": "Kulak Üstü",
+      "urunTuru": "Oyuncu Kulaklıkları",
+      "renkler": ["siyah", "gri", "beyaz"]
+    },
     "subtitle": "Kablosuz Mikrofonlu Oyuncu Kulaklığı",
     "categoryName": "Kulaklık ve Mikrofon",
     "price": 1999,
@@ -100,7 +116,7 @@
           "https://www.rampage.com.tr/cdn/shop/files/11980.png?v=1767616064&width=600",
           "https://www.rampage.com.tr/cdn/shop/files/11983.png?v=1767616064&width=600",
           "https://www.rampage.com.tr/cdn/shop/files/11986.png?v=1767616064&width=600",
-          "https://www.rampage.com.tr/cdn/shop/files/11982.png?v=1767616064&width=600"
+          "https://www.rampage.com.tr/cdn/shop/files/11982.png?v=1767616064&width=600",
           "https://www.rampage.com.tr/cdn/shop/files/11981.png?v=1767616064&width=600"
         ]
       }
@@ -129,6 +145,13 @@
     "id": 3,
     "slug": "rm-k90-vector-rgb-oyuncu-kulakligi",
     "title": "VECTOR",
+    "filters": {
+      "uyumluluk": ["PC", "Mobil"],
+      "baglantiTeknolojisi": ["Kablolu"],
+      "kulaklikTipi": "Kulak Üstü",
+      "urunTuru": "Oyuncu Kulaklıkları",
+      "renkler": ["siyah"]
+    },
     "subtitle": "RGB Oyuncu Kulaklığı",
     "categoryName": "Kulaklık ve Mikrofon",
     "price": 849,
@@ -170,6 +193,13 @@
     "id": 4,
     "slug": "sn-r10-alquist-3-5mm-rgb-oyuncu-kulakligi",
     "title": "SN-R10 ALQUIST",
+    "filters": {
+      "uyumluluk": ["PC", "PS4"],
+      "baglantiTeknolojisi": ["Kablolu"],
+      "kulaklikTipi": "Kulak Üstü",
+      "urunTuru": "Oyuncu Kulaklıkları",
+      "renkler": ["beyaz"]
+    },
     "subtitle": "3.5mm RGB Oyuncu Kulaklığı",
     "categoryName": "Kulaklık ve Mikrofon",
     "price": 999,
@@ -218,6 +248,13 @@
     "id": 5,
     "slug": "rampage-rogue-kirmizi-usb-rgb-ledli-gaming-oyuncu-mikrofonlu-kulaklik",
     "title": "ROGUE",
+    "filters": {
+      "uyumluluk": ["PC", "PS4"],
+      "baglantiTeknolojisi": ["Kablolu"],
+      "kulaklikTipi": "Kulak Üstü",
+      "urunTuru": "Oyuncu Kulaklıkları",
+      "renkler": ["Kırmızı"]
+    },
     "subtitle": "RGB 7.1 Oyuncu Kulaklığı-Kırmızı",
     "categoryName": "Kulaklık ve Mikrofon",
     "price": 1399,
@@ -260,6 +297,13 @@
     "id": 6,
     "slug": "rm-k45-orbit-s-rgb-7-1-oyuncu-kulakligi",
     "title": "RM-K45 ORBIT-S",
+    "filters": {
+      "uyumluluk": ["PC"],
+      "baglantiTeknolojisi": ["Kablolu"],
+      "kulaklikTipi": "Kulak Üstü",
+      "urunTuru": "Oyuncu Kulaklıkları",
+      "renkler": ["beyaz"]
+    },
     "subtitle": "RGB 7.1 Oyuncu Kulaklığı",
     "categoryName": "Kulaklık ve Mikrofon",
     "price": 1399,
@@ -304,6 +348,13 @@
     "id": 7,
     "slug": "rm-k19-raging-plus-beyaz-usb-7-1-surround-rgb-ledli-gaming-oyuncu-mikrofonlu-kulaklik",
     "title": "RM-K19 RAGING PLUS",
+    "filters": {
+      "uyumluluk": ["PC"],
+      "baglantiTeknolojisi": ["Kablolu"],
+      "kulaklikTipi": "Kulak Üstü",
+      "urunTuru": "Oyuncu Kulaklıkları",
+      "renkler": ["beyaz"]
+    },
     "subtitle": "7.1 Surround RGB Mikrofonlu Oyuncu Kulaklık-Beyaz",
     "categoryName": "Kulaklık ve Mikrofon",
     "price": 1349,
@@ -337,6 +388,13 @@
     "id": 8,
     "slug": "rm-k1-pulsar-rgb-7-1-surround-oyuncu-kulakligi?variant=49972815757559",
     "title": "RM-K1 PULSAR",
+    "filters": {
+      "uyumluluk": ["PC"],
+      "baglantiTeknolojisi": ["Kablolu"],
+      "kulaklikTipi": "Kulak Üstü",
+      "urunTuru": "Oyuncu Kulaklıkları",
+      "renkler": ["siyah","beyaz"]
+    },
     "subtitle": "RGB 7.1 Surround Oyuncu Kulaklığı",
     "categoryName": "Kulaklık ve Mikrofon",
     "price": 1649,
@@ -395,6 +453,13 @@
     "id": 9,
     "slug": "rampage-rm-k91-x-catty-beyaz-usb-7-1-version-rgb-gaming-oyuncu-mikrofonlu-kulaklik",
     "title": "RM-K91 X-CATTY",
+    "filters": {
+      "uyumluluk": ["PC", "PS4", "PS5"],
+      "baglantiTeknolojisi": ["Kablolu"],
+      "kulaklikTipi": "Kulak Üstü",
+      "urunTuru": "Oyuncu Kulaklıkları",
+      "renkler": ["beyaz"]
+    },
     "subtitle": "RGB 7.1 Oyuncu Kulaklığı-Beyaz",
     "categoryName": "Kulaklık ve Mikrofon",
     "price": 1399,
@@ -435,6 +500,13 @@
     "id": 10,
     "slug": "rampage-rm-k44-zengibar-pembe-7-1-surround-rgb-isik-efekti-mikrofonlu-oyuncu-kulakligi",
     "title": "RM-K44 ZENGIBAR",
+    "filters": {
+      "uyumluluk": ["PC"],
+      "baglantiTeknolojisi": ["Kablolu"],
+      "kulaklikTipi": "Kulak Üstü",
+      "urunTuru": "Oyuncu Kulaklıkları",
+      "renkler": ["pembe"]
+    },
     "subtitle": "RGB 7.1 Oyuncu Kulaklığı-Pembe",
     "categoryName": "Kulaklık ve Mikrofon",
     "price": 849,
