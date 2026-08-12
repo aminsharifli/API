@@ -174,7 +174,7 @@
     "oldPrice": null ,
     "rating": 3.5,
     "commentCount": 4,
-    "hasColorMode": 1,
+    "hasColorMode": 0,
     "variants": [],
     "defaultImages": [
       "https://www.rampage.com.tr/cdn/shop/files/9756.png?v=1719497742&width=600",
@@ -222,7 +222,7 @@
     "oldPrice": null ,
     "rating": 4.2,
     "commentCount": 9,
-    "hasColorMode": 1,
+    "hasColorMode": 0,
     "variants": [],
     "defaultImages": [
       "https://www.rampage.com.tr/cdn/shop/files/10034.png?v=1719568479&width=600",
@@ -264,7 +264,7 @@
     "oldPrice": null ,
     "rating": 4.3,
     "commentCount": 12,
-    "hasColorMode": 1,
+    "hasColorMode": 0,
     "variants": [],
     "defaultImages": [
       "https://www.rampage.com.tr/cdn/shop/files/Untitled-3copy_e9df3a7f-2412-4904-b2cd-8b682fc9cad5.png?v=1740573734&width=600",
@@ -308,7 +308,7 @@
     "oldPrice": 1699 ,
     "rating": 4.8,
     "commentCount": 5,
-    "hasColorMode": 1,
+    "hasColorMode": 0,
     "variants": [],
     "defaultImages": [
       "https://www.rampage.com.tr/cdn/shop/files/Basliksiz-1_f5bf375b-3cd7-4613-87e1-72e0b6309be6.png?v=1747999609&width=600",
@@ -399,7 +399,7 @@
     "oldPrice": 1899 ,
     "rating": 4.8,
     "commentCount": 5,
-    "hasColorMode": 1,
+    "hasColorMode": 0,
     "variants": [],
     "defaultImages": [
       "https://www.rampage.com.tr/cdn/shop/files/10914.png?v=1719569682&width=600",
@@ -439,7 +439,7 @@
     "oldPrice": null ,
     "rating": 4.6,
     "commentCount": 5,
-    "hasColorMode": 1,
+    "hasColorMode": 0,
     "variants": [],
     "defaultImages": [
       "https://www.rampage.com.tr/cdn/shop/files/9447.png?v=1719569143&width=600",
