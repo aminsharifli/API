@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Monitör",
+    "slug": "monitor"
+  },
+  {
+    "id": 2,
+    "name": "Klavye",
+    "slug": "klavye"
+  },
+  {
+    "id": 3,
+    "name": "Mouse",
+    "slug": "mouse"
+  },
+  {
+    "id": 4,
+    "name": "Kulaklık ve Mikrofon",
+    "slug": "kulaklik-ve-mikrofon"
+  },
+  {
+    "id": 5,
+    "name": "Oyuncu Direksiyonu",
+    "slug": "oyuncu-direksiyonu"
+  },
+  {
+    "id": 6,
+    "name": "Oyuncu Koltuğu",
+    "slug": "oyuncu-koltugu"
+  },
+  {
+    "id": 7,
+    "name": "Oyun Kolu",
+    "slug": "oyun-kolu"
+  },
+  {
+    "id": 8,
+    "name": "Ses Sistemi",
+    "slug": "ses-sistemi"
+  },
+  {
+    "id": 9,
+    "name": "Güç Kaynağı",
+    "slug": "guc-kaynagi"
+  },
+  {
+    "id": 10,
+    "name": "PC Kasa",
+    "slug": "pc-kasa"
+  },
+  {
+    "id": 11,
+    "name": "Notebook Soğutucu",
+    "slug": "notebook-sogutucu"
+  },
+  {
+    "id": 12,
+    "name": "Soğutma Sistemleri",
+    "slug": "sogutma-sistemleri"
+  }
+]
