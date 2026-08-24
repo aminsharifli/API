@@ -2112,12 +2112,369 @@
     ],
     "technicalSpecs": {
       "type": "images",
+      "images": [],
+      "data": []
+    }
+  },
+  {
+    "id": 41,
+    "slug": "v902-pc-3-pedalli-el-vitesli-gaming-oyuncu-direksiyonu",
+    "title": "V902 PC",
+    "filters": {},
+    "subtitle": "Sadece PC Uyumlu-El Vitesli Pedallı Oyuncu Direksiyonu",
+    "categoryName": "Oyuncu Direksiyonu",
+    "price": 7999,
+    "oldPrice": null,
+    "rating": 4.5,
+    "commentCount": 32,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/41389_00.png?v=1778573823&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/02_25729a35-ee96-4c3e-b00e-4677e2be2c2f.png?v=1744807212&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/03_8be3e6c9-8215-48c1-9832-9d01a04b0c92.png?v=1744807212&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/01_97cc1160-3306-4e0b-b402-1fd138de6481.png?v=1744807212&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/05_c6ef85a8-9cad-4520-bdac-157f10d7a399.png?v=1744807212&width=400"
+    ],
+    "bulletPoints": [
+      "Sadece PC Uyumlu",
+      "3 Adet Pedal Sistemi",
+      "6+1 Vites",
+      "Çift Motorlu Titreşim Sistemi",
+      "270 ve 900 Derece Sürüş İmkanı",
+      "21 Adet Buton + 1 Adet Direksiyon + 3 Adet Pedal",
+      "Masaya Mengene yardımıyla Sabitlenir",
+      "Tak-Çalıştır"
+    ],
+    "technicalSpecs": {
+      "type": "images",
       "images": [
-        "https://www.rampage.com.tr/cdn/shop/files/row-1-column-1_df395381-d9a4-4964-afc2-02174dfcf84c.jpg?v=1784806829&width=2000",
-        "https://www.rampage.com.tr/cdn/shop/files/row-2-column-1_da0ad0d9-5bbb-486d-8d93-ce3390280066.jpg?v=1784806828&width=1200",
-        "https://www.rampage.com.tr/cdn/shop/files/row-3-column-1_c50f03de-dc94-46ac-991a-b954cb7eeab9.jpg?v=1784806827&width=1200",
-        "https://www.rampage.com.tr/cdn/shop/files/row-4-column-1_50f81d38-70e1-4ed9-a6c7-95b5815a3939.jpg?v=1784806827&width=1200"
+        "https://www.rampage.com.tr/cdn/shop/files/row-1-column-1_88638140-7332-40fa-a449-95316e85a9ae.png?v=1765803157&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/V902-2.png?v=1765802941&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/V902-3.png?v=1765802941&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-4-column-1_f11202ab-2c3a-4091-b3c4-7a7ecfceed4b.png?v=1765803155&width=1200"
       ],
+      "data": []
+    }
+  },
+  {
+    "id": 42,
+    "slug": "pace-v987-only-pc-3-pedalli-el-vitesli-gaming-oyuncu-direksiyonu",
+    "title": "PACE V987",
+    "filters": {},
+    "subtitle": "Force Feedback 3 Pedallı - El Vitesli Pc Uyumlu Gaming Oyuncu Direksiyonu",
+    "categoryName": "Oyuncu Direksiyonu",
+    "price": 11999,
+    "oldPrice": 12499,
+    "rating": 4.9,
+    "commentCount": 16,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/41154_00.png?v=1766576965&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/41154_01.png?v=1766576965&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/41154_02.png?v=1766576965&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/41154_03.png?v=1766576965&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/41154_04.png?v=1766576965&width=400"
+    ],
+    "bulletPoints": [
+      "1 Adet Direksiyon + 3 Adet Pedal + Vites",
+      "Force Feedback Vibration",
+      "PC Uyumlu",
+      "1080 ve 270 Direksiyon Dönüş Derecesi",
+      "21 Adet Buton",
+      "Ses Çıkış    3.5mm AUX Dişi Ses Çıkışı",
+      "Çift Motorlu Güç Besleme Teknolojisi",
+      "Tak-Çalıştır"
+    ],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [
+        "https://www.rampage.com.tr/cdn/shop/files/row-1-column-1_91d961f8-05f9-4e7f-9a69-c01237e92277.jpg?v=1786110811&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-2-column-1_c771cee4-6bfc-4486-ba48-a9b67a478304.jpg?v=1786110810&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-3-column-1_73cd59d5-903d-46f2-9b13-db8d9b58a196.jpg?v=1786110812&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-4-column-1_382978d4-5d80-4504-8bb9-1d57f73502d6.jpg?v=1786110812&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-5-column-1_f15dc33c-0e48-46ba-bd6f-c6c81eff7eed.jpg?v=1786110812&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-6-column-1_37eb63b9-fcbb-4210-8271-a941b65e79bd.jpg?v=1786110813&width=1200"
+      ],
+      "data": []
+    }
+  },
+  {
+    "id": 43,
+    "slug": "rampage-force-v995-ps4-pc-xbox-one-xbox-series-s-x-3-pedalli-el-vitesi-gaming-oyun-direksiyonu",
+    "title": "FORCE V995",
+    "filters": {},
+    "subtitle": "PS4/PC/XBOX ONE/Xbox Series S/X 3 Pedall ı- El Vitesi Gaming Oyun Direksiyonu",
+    "categoryName": "Oyuncu Direksiyonu",
+    "price": 13299,
+    "oldPrice": null,
+    "rating": 4.4,
+    "commentCount": 21,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/37617_00_f8bdbccd-8fc6-46fc-9b86-8438e8241614.png?v=1778575257&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/37617_02.png?v=1755588523&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/37617_03.png?v=1755588523&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/37617_04.png?v=1755588523&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/37617_00.png?v=1755588523&width=400"
+    ],
+    "bulletPoints": [
+      "PS4/PC/Xbox ONE/Xbox Serisi S/X Uyumlu",
+      "250mm Direksiyon Çapı",
+      "900 ve 270 Dönüş Derecesi",
+      "Masaya Mengene Yardımıyla Sabitlenir",
+      "6 Konumlu H Vites",
+      "Force Feedback ve Titreşim",
+      "Tak-Çalıştır Kullanım"
+    ],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [],
+      "data": []
+    }
+  },
+  {
+    "id": 44,
+    "slug": "rowdy-v997-only-pc-3-pedalli-el-ve-sirali-vitesli-gaming-oyuncu-direksiyonu",
+    "title": "ROWDY V997",
+    "filters": {},
+    "subtitle": "Only PC-3 Pedallı Vitesli ForceFeedback Oyuncu Direksiyonu",
+    "categoryName": "Oyuncu Direksiyonu",
+    "price": 13799,
+    "oldPrice": null,
+    "rating": 4.6,
+    "commentCount": 13,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/41155_00.png?v=1778575644&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/Basliksiz-2_a80eb7e1-36a6-4640-98be-52af9c986678.png?v=1759405175&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/Basliksiz-4_576efa1e-028d-4151-8033-aae4a28d3be0.png?v=1759405175&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/Basliksiz-9_67574aae-cc31-45fa-8456-92c308a3f202.png?v=1759405175&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/Basliksiz-3_8e528009-0422-48a2-80f2-89400d146a5c.png?v=1759405175&width=400"
+    ],
+    "bulletPoints": [
+      "Sadece PC Uyumlu",
+      "1 Adet Direksiyon + 3 Adet Pedal + Vites",
+      "900 ve 270 Direksiyon Dönüş Derecesi",
+      "3.5mm AUX Dişi Ses Çıkışı",
+      "Çift Motorlu Güç Besleme Teknolojisi",
+      "Tak-Çalıştır"
+    ],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [
+        "https://www.rampage.com.tr/cdn/shop/files/41155_1_Web.png?v=1748343555&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/41155_4_Web.png?v=1748348619&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/41155_5_Web_f9485f82-f71c-41be-a2ce-cdac270d9661.png?v=1748354331&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/41155_6_Web.png?v=1748352068&width=1200"
+      ],
+      "data": []
+    }
+  },
+  {
+    "id": 45,
+    "slug": "rampage-v900-s-ps3-ps4-pc-xboxone-xbox360-switch-6-in-1-pedalli-gaming-oyuncu-direksiyonu",
+    "title": "V900-S",
+    "filters": {},
+    "subtitle": "Pedallı Gaming Oyuncu Direksiyonu",
+    "categoryName": "Oyuncu Direksiyonu",
+    "price": 5999,
+    "oldPrice": 6659,
+    "rating": 3.6,
+    "commentCount": 10,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/32939_00_07212926-69a6-41d9-a503-014429069c2d.png?v=1778574226&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/4729.png?v=1719835571&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/4730.png?v=1719835571&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/4731.png?v=1719835571&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/4732.png?v=1719835571&width=400"
+    ],
+    "bulletPoints": [
+      "PS3/PS4/PC/XBOXONE/XBOX360 Uyumlu",
+      "275mm Direksiyon Çapı",
+      "900 ve 270 Derece Direksiyon Dönüs Derecesi",
+      "USB Tip A 2.0 Bağlantı",
+      "21 Adet Buton + 1 Adet Direksiyon + 2 Adet Pedal",
+      "3.5mm AUX Ses Çıkışı",
+      "Vites ve El Freni Yok",
+      "Titreşimli",
+      "Tak-Çalıştır"
+    ],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [],
+      "data": []
+    }
+  },
+  {
+    "id": 46,
+    "slug": "force-v995-pc-el-vitesi-gaming-oyun-direksiyonu",
+    "title": "FORCE V995 PC",
+    "filters": {},
+    "subtitle": "El Vites iGaming Oyun Direksiyonu",
+    "categoryName": "Oyuncu Direksiyonu",
+    "price": 11499,
+    "oldPrice": 12299,
+    "rating": 4.3,
+    "commentCount": 10,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/42673_00.png?v=1778575091&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/42673_01.jpg?v=1768992840&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/42673_02.jpg?v=1768992840&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/42673_00.jpg?v=1768992841&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/42673_06.jpg?v=1768992840&width=400"
+    ],
+    "bulletPoints": [
+      "Model: FORCE V995",
+      "Ürün Tipi: PC Gaming Direksiyonu",
+      "Uyumluluk: PC (Windows desteği)",
+      "Kontroller: Direksiyon, Pedallar, El Vitesi",
+      "Bağlantı Arayüzü: USB",
+      "Pedal Seti: Var (Gaz / Fren)",
+      "Titreşim (Force Feedback): Var",
+      "Ayarlanabilirlik: Yükseklik / Hassasiyet ayarları",
+      "Montaj: Masa kenarına kelepçe ile sabitleme"
+    ],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [],
+      "data": []
+    }
+  },
+  {
+    "id": 47,
+    "slug": "rampage-race-w10-ps3-ps4-pc-xboxone-xbox360-switch-6-in-1-pedalli-gaming-oyuncu-direksiyonu",
+    "title": "RACE W10",
+    "filters": {},
+    "subtitle": "PS3/PS4/PC/XBOXONE/XBOX360 SWITCH 6 in 1 Pedallı Gaming Oyuncu Direksiyonu",
+    "categoryName": "Oyuncu Direksiyonu",
+    "price": 6699,
+    "oldPrice": 9959,
+    "rating": 4.5,
+    "commentCount": 3,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/37615_00.png?v=1778574509&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/7861.png?v=1719835642&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/7862.png?v=1719835642&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/7860.png?v=1719835642&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/7863.png?v=1719835642&width=400"
+    ],
+    "bulletPoints": [
+      "PS3/PS4/PC/XBOXONE/XBOX360 Uyumluluk",
+      "Titreşim Özelliği",
+      "6+1 Vites"
+    ],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [],
+      "data": []
+    }
+  },
+  {
+    "id": 48,
+    "slug": "rampage-speed-w20-ps3-ps4-pc-xboxone-xbox360-switch-3-pedalli-el-vitesli-gaming-oyuncu-direksiyonu",
+    "title": "SPEED W20",
+    "filters": {},
+    "subtitle": "PS3/PS4/PC/XBOXONE/XBOX360/SWITCH 3 Pedallı - El Vitesli Gaming Oyuncu Direksiyonu",
+    "categoryName": "Oyuncu Direksiyonu",
+    "price": 11399,
+    "oldPrice": null,
+    "rating": 4.5,
+    "commentCount": 3,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/37614_00.png?v=1778574389&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/7853.png?v=1719835627&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/7854.png?v=1719835627&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/7852.png?v=1719835627&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/37614_03.png?v=1773313568&width=400"
+    ],
+    "bulletPoints": [
+      "PS3/PS4/PC/XBOXONE/XBOX360/SWITCH Uyumluluk",
+      "3 Pedallı"
+    ],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [],
+      "data": []
+    }
+  },
+  {
+    "id": 49,
+    "slug": "rampage-v902-ps3-ps4-pc-xboxone-xbox360-switch-3-pedalli-el-vitesli-gaming-oyuncu-direksiyonu",
+    "title": "V902",
+    "filters": {},
+    "subtitle": "Pedal Vites Oyuncu Direksiyon Seti",
+    "categoryName": "Oyuncu Direksiyonu",
+    "price": 7999,
+    "oldPrice": null,
+    "rating": 4.8,
+    "commentCount": 24,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/V902_00.png?v=1767615692&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/V902_00_d209acf9-d3d1-4c89-bd2f-8c2b12778476.png?v=1778574041&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/4147.png?v=1767615692&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/4148.png?v=1767615692&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/4149.png?v=1767615692&width=400"
+    ],
+    "bulletPoints": [
+      "PS3/PS4PC/PS4/Xboxone/Xbox360/Xbox Series S Veya Sadece PC Uyumlu",
+      "Vites ve Titreşim Var",
+      "Tak-Çalıştır",
+      "900 ve 270 Direksiyon Dönüş Derecesi",
+      "USB  2.0 Bağlantılı",
+      "21 Adet Buton+1 Adet Direksiyon+3 Adet Pedal",
+      "3.5mm AUX Ses Çıkışı",
+      "275mm Direksiyon Çapı",
+      "Masaya Mengene Yardımıyla Sabitlenir"
+    ],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [
+        "https://www.rampage.com.tr/cdn/shop/files/V902-1.png?v=1765802944&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/V902-2.png?v=1765802941&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/V902-3.png?v=1765802941&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/V902-4.png?v=1765802940&width=1200"
+      ],
+      "data": []
+    }
+  },
+  {
+    "id": 50,
+    "slug": "speed-w20-pc-only-pc-3-pedalli-el-vitesli-gaming-oyuncu-direksiyonu",
+    "title": "SPEED W20",
+    "filters": {},
+    "subtitle": "PC ONLY PC 3 Pedallı - El Vitesli Gaming Oyuncu Direksiyonu",
+    "categoryName": "Oyuncu Direksiyonu",
+    "price": 6999,
+    "oldPrice": null,
+    "rating": 4.2,
+    "commentCount": 10,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/43235_00_1f9d8e1b-ad3e-4643-9d19-575781d5f338.png?v=1778573295&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/43235_01.png?v=1773313606&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/43235_02.png?v=1773313606&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/43235_03.png?v=1773313606&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/05_c6ef85a8-9cad-4520-bdac-157f10d7a399.png?v=1744807212&width=400"
+    ],
+    "bulletPoints": [],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [],
       "data": []
     }
   }
