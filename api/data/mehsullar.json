@@ -1599,7 +1599,524 @@
         "https://www.rampage.com.tr/cdn/shop/files/row-1-column-1_1026b7e7-1e3b-47dc-85fa-96b8b0b93b71.png?v=1753451882&width=2000",
         "https://www.rampage.com.tr/cdn/shop/files/row-2-column-1_3e1a6e84-fb3b-40fa-ab9f-c092b79175e3.png?v=1753451885&width=2000",
         "https://www.rampage.com.tr/cdn/shop/files/row-3-column-1_cc54d672-eb90-41da-a3f3-a6a0b069ee0e.png?v=1753451883&width=2000",
-        "https://www.rampage.com.tr/cdn/shop/files/fitment-4.png?v=1762181155&width=2000"
+        "https://www.rampage.com.tr/cdn/shop/files/row-4-column-1_e671969d-e737-450e-b360-102dd5f029f7.png?v=1753451879&width=2000"
+      ],
+      "data": []
+    }
+  },
+  {
+    "id": 31,
+    "slug": "zenith-pro-4000-hz-kablosuz-oyuncu-mouse",
+    "title": "ZENITH PRO",
+    "filters": {
+      "baglantituru": ["Kablosuz , bluetooth"]
+    },
+    "subtitle": "4000 Hz Kablosuz Oyuncu Mouse",
+    "categoryName": "Mouse",
+    "price": 2749,
+    "oldPrice": null,
+    "rating": 4.7,
+    "commentCount": 49,
+    "hasColorMode": 1,
+    "variants": [
+      {
+        "colorId": "c-siyah",
+        "colorName": "Siyah",
+        "colorCodes": ["#000","#000"],
+        "price": 2749,
+        "oldPrice": null,
+        "mainImage": "https://www.rampage.com.tr/cdn/shop/files/Basliksiz-1_6ddc1b78-c0fb-4b59-974e-2207bcee5155.png?v=1773218949&width=800",
+        "images": [
+          "https://www.rampage.com.tr/cdn/shop/files/13337_5dde7cbf-cf69-41df-85ca-30e9ebd8b08d.png?v=1773218818&width=1000",
+          "https://www.rampage.com.tr/cdn/shop/files/13332.png?v=1772024665&width=400",
+          "https://www.rampage.com.tr/cdn/shop/files/13334.png?v=1772024665&width=400",
+          "https://www.rampage.com.tr/cdn/shop/files/13331.png?v=1772024665&width=400"
+        ]
+      },
+      {
+        "colorId": "c-beyaz",
+        "colorName": "Beyaz",
+        "colorCodes": ["#fff","#fff"],
+        "price": 2749,
+        "oldPrice": null,
+        "mainImage": "https://www.rampage.com.tr/cdn/shop/files/Basliksiz-1_e433752b-8a33-45e3-b6b4-550be9562d86.png?v=1772024665&width=400",
+        "images": [
+          "https://www.rampage.com.tr/cdn/shop/files/13348.png?v=1772024665&width=400",
+          "https://www.rampage.com.tr/cdn/shop/files/13343.png?v=1772024665&width=400",
+          "https://www.rampage.com.tr/cdn/shop/files/13345.png?v=1772024665&width=400",
+          "https://www.rampage.com.tr/cdn/shop/files/13342.png?v=1772024665&width=400"
+        ]
+      }
+    ],
+    "defaultImages": [],
+    "bulletPoints": [
+      "PixArt PAW 3395 Sensör",
+      "Nordic 52833 İşlemci",
+      "26000 Dpi",
+      "4.000 Hz Raporlama Hızı",
+      "Kailh GM 8.0 Black Mamba",
+      "650 IPS",
+      "8 Adet Programlanabilir Tuş",
+      "48 adet Macro Komut İmkanı",
+      "3 Farklı Bağlantı Seçeneği",
+      "Sadece 56 Gram"
+    ],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [
+        "https://www.rampage.com.tr/cdn/shop/files/row-1-column-1_df395381-d9a4-4964-afc2-02174dfcf84c.jpg?v=1784806829&width=2000",
+        "https://www.rampage.com.tr/cdn/shop/files/row-2-column-1_da0ad0d9-5bbb-486d-8d93-ce3390280066.jpg?v=1784806828&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-3-column-1_c50f03de-dc94-46ac-991a-b954cb7eeab9.jpg?v=1784806827&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-4-column-1_50f81d38-70e1-4ed9-a6c7-95b5815a3939.jpg?v=1784806827&width=1200"
+      ],
+      "data": []
+    }
+  },
+  {
+    "id": 32,
+    "slug": "blitz-ultimate-8k-kablosuz-oyuncu-mouse",
+    "title": "BLITZ ULTIMATE",
+    "filters": {
+      "baglantituru": ["Kablosuz , bluetooth"]
+    },
+    "subtitle": "8K Kablosuz Oyuncu Mouse",
+    "categoryName": "Mouse",
+    "price": 3699,
+    "oldPrice": 3999,
+    "rating": 4.8,
+    "commentCount": 22,
+    "hasColorMode": 1,
+    "variants": [
+      {
+        "colorId": "c-beyaz",
+        "colorName": "Beyaz",
+        "colorCodes": ["#fff","#fff"],
+        "price": 3699,
+        "oldPrice": 3999,
+        "mainImage": "https://www.rampage.com.tr/cdn/shop/files/Untitled-9copy_175873f9-6ed3-466c-ba5c-1c1eafa6f787.png?v=1772023696&width=400",
+        "images": [
+          "https://www.rampage.com.tr/cdn/shop/files/Untitled-3copy_9da8001e-c62c-4708-ada0-5e56278c0905.png?v=1772023627&width=400",
+          "https://www.rampage.com.tr/cdn/shop/files/Untitled-4copy_0b2dcb03-0787-4e13-a748-ae0b472a01a8.png?v=1772023627&width=400",
+          "https://www.rampage.com.tr/cdn/shop/files/Untitled-5copy_7f0e937d-2f0f-439c-83d8-54789fb3272e.png?v=1772023627&width=400",
+          "https://www.rampage.com.tr/cdn/shop/files/Untitled-6copy_1d03e247-8ab0-433d-a130-75a8f5ea4bc3.png?v=1772023627&width=400"
+        ]
+      },
+      {
+        "colorId": "c-siyah",
+        "colorName": "Siyah",
+        "colorCodes": ["#000","#000"],
+        "price": 3699,
+        "oldPrice": 3999,
+        "mainImage": "https://www.rampage.com.tr/cdn/shop/files/01_ae818394-3504-436b-aed7-1fbd2a8d53b0.png?v=1773216367&width=400",
+        "images": [
+          "https://www.rampage.com.tr/cdn/shop/files/02_12eefafc-f6df-46f3-867c-844ea46df9ad.png?v=1772023997&width=400",
+          "https://www.rampage.com.tr/cdn/shop/files/03_573932bb-f6d0-439e-82c0-0be072b63434.png?v=1772023997&width=400",
+          "https://www.rampage.com.tr/cdn/shop/files/05_106ab98f-c501-46b5-9fcf-dc73dd8f266a.png?v=1772023997&width=400",
+          "https://www.rampage.com.tr/cdn/shop/files/07_70167660-3d61-422c-bdca-148b0e882918.png?v=1772023997&width=400"
+        ]
+      }
+    ],
+    "defaultImages": [],
+    "bulletPoints": [
+      "PixArt PAW 3950 Sensör",
+      "2.4 Ghz Bağlantı",
+      "Nordic 52840 İşlemci",
+      "8.000 Hz Raporlama Hızı",
+      "70 Milyon Tıklama Ömrü",
+      "Omron 70M Optik Anahtar",
+      "3 Farklı Bağlantı Seçeneği ",
+      "Ultra Hafif 56 Gram"
+    ],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [
+        "https://www.rampage.com.tr/cdn/shop/files/BLITZ_ULTIMATE_KAPAK_BEYAZ.webp?v=1746691106&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/BLITZ_ULTIMATE_ERGONOMIC_BEYAZ_Web.png?v=1746694708&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/BLITZ_ULTIMATE_LIFESTYLE_2.png?v=1746017693&width=1200"
+      ],
+      "data": []
+    }
+  },
+  {
+    "id": 33,
+    "slug": "12800-dpi-7d-makrolu-oyuncu-mouse",
+    "title": "SPEAR V2",
+    "filters": {
+      "baglantituru": ["kablolu"]
+    },
+    "subtitle": "12800 Dpi 7D Makrolu Oyuncu Mouse",
+    "categoryName": "Mouse",
+    "price": 599,
+    "oldPrice": null,
+    "rating": 4.8,
+    "commentCount": 16,
+    "hasColorMode": 1,
+    "variants": [
+      {
+        "colorId": "c-beyaz",
+        "colorName": "Beyaz",
+        "colorCodes": ["#fff","#fff"],
+        "price": 599,
+        "oldPrice": null,
+        "mainImage": "https://www.rampage.com.tr/cdn/shop/files/10478.png?v=1746711061&width=400",
+        "images": [
+          "https://www.rampage.com.tr/cdn/shop/files/10477.png?v=1746711061&width=400",
+          "https://www.rampage.com.tr/cdn/shop/files/10479.png?v=1719827324&width=400",
+          "https://www.rampage.com.tr/cdn/shop/files/10480.png?v=1719827324&width=400",
+          "https://www.rampage.com.tr/cdn/shop/files/10481.png?v=1719827324&width=400"
+        ]
+      },
+      {
+        "colorId": "c-siyah",
+        "colorName": "Siyah",
+        "colorCodes": ["#000","#000"],
+        "price": 599,
+        "oldPrice": null,
+        "mainImage": "https://www.rampage.com.tr/cdn/shop/files/10467.png?v=1767609604&width=400",
+        "images": [
+          "https://www.rampage.com.tr/cdn/shop/files/10466.png?v=1767609604&width=400",
+          "https://www.rampage.com.tr/cdn/shop/files/10468.png?v=1767609604&width=400",
+          "https://www.rampage.com.tr/cdn/shop/files/10469.png?v=1767609604&width=400",
+          "https://www.rampage.com.tr/cdn/shop/files/10470.png?v=1767609604&width=400"
+        ]
+      }
+    ],
+    "defaultImages": [],
+    "bulletPoints": [
+      "RGB Aydınlatma",
+      "12800 Dpi",
+      "Usb Bağlantı",
+      "Instant 704F Optik Sensör",
+      "7 Adet  MacroTuş",
+      "125Hz Bildirim Oranı",
+      "50 Milyon Tıklama Ömrü",
+      "1.5 Metre Örgülü Kablo",
+      "135gr Ağırlık"
+    ],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [
+        "https://www.rampage.com.tr/cdn/shop/files/row-1-column-1_6d4252a8-55e4-4cc8-aa91-4f499d9a966d.jpg?v=1762522168&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-2-column-1_34eb992f-d203-46f7-b6d4-48716fbf882c.jpg?v=1762522169&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-3-column-1_6d0d7e98-7ca9-4e48-a881-cbc3ed9da02a.jpg?v=1762522168&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-4-column-1_cb48808e-b4e4-480c-b3bd-e530cbe424c2.jpg?v=1762522167&width=1200"
+      ],
+      "data": []
+    }
+  },
+  {
+    "id": 34,
+    "slug": "rampage-smx-g39-comfort-usb-8-makro-extra-atis-tuslu-rgb-12800-dpi-gaming-oyuncu-mouse",
+    "title": "SMX-G39 COMFORT",
+    "filters": {
+      "baglantituru": ["kablolu"]
+    },
+    "subtitle": "8 Makro+Extra Atış Tuşlu RGB 12800 Dpi Oyuncu Mouse",
+    "categoryName": "Mouse",
+    "price": 699,
+    "oldPrice": null,
+    "rating": 4.2,
+    "commentCount": 9,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/9972.png?v=1746711528&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/9971.png?v=1746711528&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/9973.png?v=1719827273&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/9974.png?v=1719827273&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/9975.png?v=1719827273&width=400"
+    ],
+    "bulletPoints": [
+      "8 Adet Macro Tuş",
+      "12800 Dpi",
+      "RGB Aydınlatma",
+      "10 Milyon Kez Tıklanma Ömrü",
+      "125Hz -1000Hz Sorgulama Hızı",
+      "1.80 Metre Örgülü Kablo",
+      "130x70x41mm"
+    ],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [
+        "https://www.rampage.com.tr/cdn/shop/files/row-1-column-1_3bb1c3b2-a4e4-49f5-90a3-72619f7dad7d.jpg?v=1765885719&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-2-column-1_bbff4808-2c48-410a-9d7f-f81b3237dc38.jpg?v=1765885719&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-3-column-1_41bf6571-fc47-4141-b56a-09a073b8afdf.jpg?v=1765885719&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-4-column-1_83c98d7d-2d0d-4952-bbc1-b14d8a7ef533.jpg?v=1765885718&width=1200"
+      ],
+      "data": []
+    }
+  },
+  {
+    "id": 35,
+    "slug": "rampage-smx-g38-claw-usb-7-makro-tuslu-rgb-12800-dpi-gaming-oyuncu-mouse",
+    "title": "SMX-G38 CLAW",
+    "filters": {
+      "baglantituru": ["kablolu"]
+    },
+    "subtitle": "7 Makro Tuşlu RGB 12800 Dpi Oyuncu Mouse",
+    "categoryName": "Mouse",
+    "price": 739,
+    "oldPrice": null,
+    "rating": 4.0,
+    "commentCount": 10,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/9967.png?v=1719918568&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/9962.png?v=1719918568&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/9963.png?v=1719918568&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/9964.png?v=1719918568&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/9965.png?v=1719918568&width=400"
+    ],
+    "bulletPoints": [
+      "RGB Aydınlatma",
+      "Tak Çalıştır",
+      "1200/2400/3200/4800/7200 DPI",
+      "10 Milyon Kez Tıklanma Ömrü ",
+      "Instant A725F Sensör",
+      "Düğme   7 Adet",
+      "60 IPS İzlenme Hızı",
+      "125-1000Hz Sorgulama Hızı",
+      "1.8 Metre Örgülü Kablo",
+      "150gr Ağırlık"
+    ],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [
+        "https://www.rampage.com.tr/cdn/shop/files/row-1-column-1_36d07cb4-91bc-4e9d-820a-7605ba5d6530.png?v=1757078934&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-2-column-1_cab7fb28-7bbf-4ede-9353-76dc8740ec9e.png?v=1757078935&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-3-column-1_52dfbfb2-039e-4f8b-a01b-4065957f35d7.png?v=1757078933&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-4-column-1_a131ddf7-5a80-4bed-b691-3f32259051b1.png?v=1757078928&width=1200"
+      ],
+      "data": []
+    }
+  },
+  {
+    "id": 36,
+    "slug": "zenith-1000-hz-kablosuz-oyuncu-mouse",
+    "title": "ZENITH",
+    "filters": {
+      "baglantituru": ["Kablosuz , bluetooth"]
+    },
+    "subtitle": "1000 Hz Kablosuz Oyuncu Mouse",
+    "categoryName": "Mouse",
+    "price": 1749,
+    "oldPrice": null,
+    "rating": 4.7,
+    "commentCount": 7,
+    "hasColorMode": 1,
+    "variants": [
+      {
+        "colorId": "c-beyaz",
+        "colorName": "Beyaz",
+        "colorCodes": ["#fff","#fff"],
+        "price": 1749,
+        "oldPrice": null,
+        "mainImage": "https://www.rampage.com.tr/cdn/shop/files/1_40b56af3-f83c-4272-bae5-52a8659d37d8.png?v=1750743621&width=400",
+        "images": [
+          "https://www.rampage.com.tr/cdn/shop/files/8_7b213f6f-1f51-4665-be13-328d001c3a77.png?v=1772024451&width=400",
+          "https://www.rampage.com.tr/cdn/shop/files/9_375ea2ee-2d60-405e-aaca-fc53a99b7d22.png?v=1772024451&width=400",
+          "https://www.rampage.com.tr/cdn/shop/files/3_e6223be4-fcd8-4f60-a005-384e2a1a771d.png?v=1772024340&width=400",
+          "https://www.rampage.com.tr/cdn/shop/files/7_bd493f22-b6dc-4daa-8ed1-65eac1d32f22.png?v=1772024340&width=400"
+        ]
+      },
+      {
+        "colorId": "c-siyah",
+        "colorName": "Siyah",
+        "colorCodes": ["#000","#000"],
+        "price": 1749,
+        "oldPrice": null,
+        "mainImage": "https://www.rampage.com.tr/cdn/shop/files/1_928986fb-d62c-4a23-97ec-398003303284.png?v=1773218977&width=400",
+        "images": [
+          "https://www.rampage.com.tr/cdn/shop/files/8_2d9bb694-55ac-480a-bb35-2651507ffcf5.png?v=1772024340&width=400",
+          "https://www.rampage.com.tr/cdn/shop/files/7_128ba2ab-f04d-4847-9b4b-75bbce995bd0.png?v=1772024340&width=400",
+          "https://www.rampage.com.tr/cdn/shop/files/4_21b38e31-b5aa-457a-84f2-7d88b9cbd832.png?v=1772024340&width=400",
+          "https://www.rampage.com.tr/cdn/shop/files/3_62176268-2e3e-46c7-84c4-3ae1527d16b4.png?v=1772024340&width=400"
+        ]
+      }
+    ],
+    "defaultImages": [],
+    "bulletPoints": [
+      "PixArt PAW 3395 Sensör",
+      "Nordic 52833 İşlemci",
+      "26000 Dpi",
+      "1.000 Hz Raporlama Hızı",
+      "Kailh GM 8.0 Black Mamba",
+      "650 IPS",
+      "8 Adet Programlanabilir Tuş",
+      "48 adet Macro Komut İmkanı",
+      "3 Farklı Bağlantı Seçeneği",
+      "Sadece 56 Gram"
+    ],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [
+        "https://www.rampage.com.tr/cdn/shop/files/row-1-column-1_5466c105-bc4f-4046-937e-923709316a2b.png?v=1756702165&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-2-column-1_3555e332-8f2f-4ff5-9623-91a68ade0e23.png?v=1756702165&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-3-column-1_a632a128-7eae-4f9b-b164-a9c6bf341552.png?v=1756702166&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-4-column-1_c664a029-6114-4b7f-9ec9-9745a7a13029.png?v=1756702162&width=1200"
+      ],
+      "data": []
+    }
+  },
+  {
+    "id": 37,
+    "slug": "smx-r44-v2-makrolu-siyah-12800-dpi-rgb-ledli-80-million-huano-switch-gaming-oyuncu-mouse",
+    "title": "SMX-R44 V2",
+    "filters": {
+      "baglantituru": ["Kablolu"]
+    },
+    "subtitle": "Makrolu 12800 Dpi 80 Million Huano Switch Oyuncu Mouse-Siyah",
+    "categoryName": "Mouse",
+    "price": 659,
+    "oldPrice": 759,
+    "rating": 4.3,
+    "commentCount": 3,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/SMX-R44_01.png?v=1745955140&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/SMX-R44_00.png?v=1745955140&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/SMX-R44_05.png?v=1742907517&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/SMX-R44_03.png?v=1742907517&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/SMX-R44_02.png?v=1742907517&width=400"
+    ],
+    "bulletPoints": [
+      "RGB Led Aydınlatma",
+      "12800 DPI Huano Switch",
+      "USB 2.0 Kablolu Bağlantı",
+      "1000Hz Bildirim Oranı",
+      "825+MCU D26 Sensör",
+      "80 Milyon Tuş Ömrü",
+      "110 gr Ağırlık"
+    ],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [
+        "https://www.rampage.com.tr/cdn/shop/files/row-1-column-1_ba524056-c2a0-4d4b-b63d-63d771d2f6ec.jpg?v=1766750367&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-2-column-1_1da9609d-3264-4762-b25a-f7eb474f9ced.jpg?v=1766750367&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-3-column-1_ecff2799-4037-46f7-88aa-cd8059777d61.jpg?v=1766750367&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-4-column-1_a94584f8-c25b-4fa3-91f6-de7736354867.jpg?v=1766750367&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-5-column-1_d4b8ecc4-fbba-4fa9-a3dd-026758bbb2ae.jpg?v=1766750368&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-6-column-1_cf3dd830-ed0e-4110-ad59-7dcb75558aa4.jpg?v=1766750366&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-7-column-1_1f341a54-0981-4620-8aa4-dc32c5ac586e.jpg?v=1766750367&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-8-column-1_3345c721-7b86-4b2f-8521-8969ba7b2b00.jpg?v=1766750367&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-9-column-1_65a4ded8-77f4-4785-aaef-39ecba0c79a5.jpg?v=1766750366&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-10-column-1_ece654c4-9d08-4820-a7a0-cd208ab277fd.jpg?v=1766750366&width=1200"
+      ],
+      "data": []
+    }
+  },
+  {
+    "id": 38,
+    "slug": "rampage-smx-r22-phoenix-beyaz-7-tuslu-rgb-7200dpi-gaming-oyuncu-mouse",
+    "title": "SMX-R22 PHOENIX V2",
+    "filters": {
+      "baglantituru": ["Kablolu"]
+    },
+    "subtitle": "Smx-R22 Phoenix 7 Tuşlu RGB 7200 Dpi Oyuncu Mouse-Beyaz",
+    "categoryName": "Mouse",
+    "price": 749,
+    "oldPrice": null,
+    "rating": 5,
+    "commentCount": 5,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/12036.png?v=1746709041&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/12035.png?v=1746709041&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/12037.png?v=1719829684&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/12038.png?v=1719829684&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/12039.png?v=1719829685&width=400"
+    ],
+    "bulletPoints": [],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [
+        "https://www.rampage.com.tr/cdn/shop/files/row-1-column-1_addab669-5f16-4a0a-b068-3666c8513491.png?v=1753452329&width=2000",
+        "https://www.rampage.com.tr/cdn/shop/files/row-2-column-1_4cbf96fb-ec96-45ae-8364-28c31d9af687.png?v=1753452332&width=2000",
+        "https://www.rampage.com.tr/cdn/shop/files/row-3-column-1_ef7840f5-6b00-4fb1-a8d7-2f82f9c69876.png?v=1753452328&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-4-column-1_ab1b6700-e9aa-44f7-9b2f-ab3f1f0f88e2.png?v=1753452325&width=1200"
+      ],
+      "data": []
+    }
+  },
+  {
+    "id": 39,
+    "slug": "rampage-smx-g72-greedy-8-tuslu-double-click-real-rgb-ledli-makrolu-7200dpi-gaming-oyuncu-mouse",
+    "title": "SMX-G72 GREEDY V2",
+    "filters": {
+      "baglantituru": ["Kablolu"]
+    },
+    "subtitle": "8 Tuşlu Double Click Real RGB Makrolu 12800Dpi Oyuncu Mouse",
+    "categoryName": "Mouse",
+    "price": 659,
+    "oldPrice": 999,
+    "rating": 4.6,
+    "commentCount": 5,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/11088.png?v=1746712837&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/11087.png?v=1746712837&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/11089.png?v=1719824457&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/11090.png?v=1719824457&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/11091.png?v=1719824457&width=400"
+    ],
+    "bulletPoints": [
+      "RGB LED Aydınlatma",
+      "Instant A725 F Yüksek Performans Sensör",
+      "20 Milyon Tuş Ömrü",
+      "12800 DPI",
+      "8 Adet Programlanabilir Tuş"
+    ],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [],
+      "data": []
+    }
+  },
+  {
+    "id": 40,
+    "slug": "rampage-smx-r21-compact-usb-siyah-rgb-isikli-macro-7200dpi-1000hz-gaming-oyuncu-mouse",
+    "title": "SMX-R21 COMPACT",
+    "filters": {
+      "baglantituru": ["Kablosuz , bluetooth"]
+    },
+    "subtitle": "RGB Macrolu 7200dpi / 1000hz Oyuncu Mouse-Siyah",
+    "categoryName": "Mouse",
+    "price": 519,
+    "oldPrice": null,
+    "rating": 5,
+    "commentCount": 8,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/11088.png?v=1746712837&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/11087.png?v=1746712837&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/11089.png?v=1719824457&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/11090.png?v=1719824457&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/11091.png?v=1719824457&width=400"
+    ],
+    "bulletPoints": [
+      "RGB LED Aydınlatma",
+      "7200-12800 DPI",
+      "7 Adet Tuş Sayısı",
+      "USB Bağlantı",
+      "Instand A825 IC Sensörü",
+      "7000 fps Yenileme Hızı",
+      "1000Hz Yoklama Oranı",
+      "10 Milyon Anahtar Ömrü",
+      "1.8 Metre Örgülü Kablo",
+      "98 gr Ağırlık"
+    ],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [
+        "https://www.rampage.com.tr/cdn/shop/files/row-1-column-1_df395381-d9a4-4964-afc2-02174dfcf84c.jpg?v=1784806829&width=2000",
+        "https://www.rampage.com.tr/cdn/shop/files/row-2-column-1_da0ad0d9-5bbb-486d-8d93-ce3390280066.jpg?v=1784806828&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-3-column-1_c50f03de-dc94-46ac-991a-b954cb7eeab9.jpg?v=1784806827&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-4-column-1_50f81d38-70e1-4ed9-a6c7-95b5815a3939.jpg?v=1784806827&width=1200"
       ],
       "data": []
     }
