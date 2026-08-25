@@ -2469,12 +2469,414 @@
       "https://www.rampage.com.tr/cdn/shop/files/43235_01.png?v=1773313606&width=400",
       "https://www.rampage.com.tr/cdn/shop/files/43235_02.png?v=1773313606&width=400",
       "https://www.rampage.com.tr/cdn/shop/files/43235_03.png?v=1773313606&width=400",
-      "https://www.rampage.com.tr/cdn/shop/files/05_c6ef85a8-9cad-4520-bdac-157f10d7a399.png?v=1744807212&width=400"
+      "https://www.rampage.com.tr/cdn/shop/files/43235_04.png?v=1773313606&width=400"
     ],
     "bulletPoints": [],
     "technicalSpecs": {
       "type": "images",
       "images": [],
+      "data": []
+    }
+  },
+  {
+    "id": 51,
+    "slug": "3d-kol-tam-dokme-sungerli-oyuncu-koltugu-siyah-gri",
+    "title": "KL-R56",
+    "filters": {},
+    "subtitle": "3D Kol,Tam Dökme Süngerli Oyuncu Koltuğu-Siyah/Gri",
+    "categoryName": "Oyuncu Koltuğu",
+    "price": 7299,
+    "oldPrice": null,
+    "rating": 4.6,
+    "commentCount": 5,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/7664.png?v=1719867758&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/7665.png?v=1719867758&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/7666.png?v=1719867758&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/7667.png?v=1719867758&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/7668.png?v=1719867758&width=400"
+    ],
+    "bulletPoints": [
+      "3D Hareketli Kolçaklar",
+      "Ayarlanabilir Bel ve Boyun Yastığı",
+      "Dökme Kalıp Sünger -PU Deri Koltuk Malzemesi",
+      "180 derece yatabilir Mekanizma",
+      "Sırt Yüksekliği                 81 cm",
+      "Sırt Genişliği                   54 cm",
+      "Koltuk Derinliği              50 cm",
+      "Taşıma kapasitesi:          120 kg",
+      "Net Ağırlık                      18 kg"
+    ],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [
+        "https://www.rampage.com.tr/cdn/shop/files/row-1-column-1-2_efe9cb9e-96a0-4be1-a5f8-a7262feb9b96.png?v=1772180776&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-2-column-1-2_a0401689-adbc-43de-8820-d84609e6875c.png?v=1772180777&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-3-column-1-2_e1553eb0-9c9e-476e-be14-d1ab2c2e747f.png?v=1772180777&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-4-column-1-2_4100bc78-f4e6-41c0-883d-a144b5ce86f8.png?v=1772180777&width=1200"
+      ],
+      "data": []
+    }
+  },
+  {
+    "id": 52,
+    "slug": "ust-seviye-terletmez-kumas-oyuncu-koltugu-siyah",
+    "title": "KL-R16 DRAPE",
+    "filters": {},
+    "subtitle": "Üst Seviye Terletmez Kumaş Oyuncu Koltuğu-Siyah",
+    "categoryName": "Oyuncu Koltuğu",
+    "price": 8499,
+    "oldPrice": 9899,
+    "rating": 5,
+    "commentCount": 6,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/11327.png?v=1719868218&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/11328.png?v=1719868218&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/11329.png?v=1719868218&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/11330.png?v=1719868218&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/11331.png?v=1719868218&width=400"
+    ],
+    "bulletPoints": [
+      "Kilitleme Ve Eğim Fonksiyonlu",
+      "120 kg Taşıma kapasitesi",
+      "Suni Deri + Kumaş Yüzey Malzemesi",
+      "Kelebek Mekanizma",
+      "63/70.5-73/80.5 cm Kolçak Yüksekliği",
+      "53 cm Koltuk Genişliği",
+      "45-55 cm Koltuk Yüksekliği",
+      "82 cm Sırt Yüksekliği",
+      "56 cm Sırt Genişliği",
+      "48 cm Koltuk Derinliği"
+    ],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [
+        "https://www.rampage.com.tr/cdn/shop/files/row-1-column-1-2_c0674c20-f340-4d66-91bb-0a5de0d19c7d.png?v=1767019024&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-2-column-1-3.png?v=1767019023&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-3-column-1-2.png?v=1767019020&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-4-column-1-2.png?v=1767019023&width=1200"
+      ],
+      "data": []
+    }
+  },
+  {
+    "id": 53,
+    "slug": "rampage-kl-r45-massive-kirmizi-siyah-oyuncu-koltugu",
+    "title": "MASSIVE",
+    "filters": {},
+    "subtitle": "Oyuncu Koltuğu - Kırmızı/Siyah",
+    "categoryName": "Oyuncu Koltuğu",
+    "price": 7989,
+    "oldPrice": null,
+    "rating": 4.3,
+    "commentCount": 6,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/11430.png?v=1719868785&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/11431.png?v=1719868785&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/11432.png?v=1719868785&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/11433.png?v=1719868785&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/11434.png?v=1719868785&width=400"
+    ],
+    "bulletPoints": [
+      "Suni deri yüzey malzeme",
+      "3d kol dayama",
+      "180° tam yatar mekanizma",
+      "3 class amörtisör ile ürünün yükseklik ayarı",
+      "Sağlam ayaklar",
+      "Kilitleme ve eğim fonksiyonlu",
+      "Sandalye boyutu:        70*130cm",
+      "Koltuk genişliği:          55 cm",
+      "Sırt yüksekliği:            84 cm",
+      "Taşıma kapasitesi:      120 kg"
+    ],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [
+        "https://www.rampage.com.tr/cdn/shop/files/row-1-column-1-7_2f59b5d3-ccdb-43e2-9948-fb14a758373f.png?v=1770562644&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-2-column-1-7_cd8b9af4-3baa-49aa-9f87-98448f85d4fe.png?v=1770562645&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-3-column-1-7_ca68a53a-f2de-4ba2-b7b7-8cf8b1ad5b9c.png?v=1770562643&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-4-column-1-7.png?v=1770562645&width=1200"
+      ],
+      "data": []
+    }
+  },
+  {
+    "id": 54,
+    "slug": "kl-r12-lumos-terletmez-kumas-gri-oyuncu-koltugu-1",
+    "title": "LUMOS",
+    "filters": {},
+    "subtitle": "KL-R12 Lumos Terletmez Kumaş Gri Oyuncu Koltuğu",
+    "categoryName": "Oyuncu Koltuğu",
+    "price": 7999,
+    "oldPrice": 9458,
+    "rating": 4.3,
+    "commentCount": 5,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/42768_00_069a3645-1fed-4a01-8f32-7d2b7ae1b137.png?v=1759755861&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/42768_01_34d4c6b7-a984-400b-9816-9044a6c19601.png?v=1759755861&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/42768_02_feeefc4f-74b3-4015-b641-6cd4e4cc0c36.png?v=1759755861&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/42768_03_d8068710-e84b-4f18-8749-2f9704081b83.png?v=1759755861&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/42768_04_adb46d65-16c4-435a-9e58-2915097e26b6.png?v=1759755861&width=400"
+    ],
+    "bulletPoints": [
+      "Marka: Rampage",
+      "Model: KL-R12 Lumos Gri",
+      "Kaplama Malzemesi: Terletmez kumaş (nefes alabilen yüzey)",
+      "Renk: Gri",
+      "Garanti Süresi: 24 ay resmi garanti",
+      "Menşei: Çin (CN)"
+    ],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [
+        "https://www.rampage.com.tr/cdn/shop/files/row-1-column-1_6aea0422-0385-44f5-8de7-756a903c96a5.jpg?v=1784294448&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-2-column-1_1f4d818d-f3fd-434d-b3e8-e89b0310c79e.jpg?v=1784294448&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-3-column-1_ef59ad6b-4a20-438e-b06a-e5a43946752a.jpg?v=1784294449&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-4-column-1_12777f79-f723-4ff8-bb5b-707c30db0f16.jpg?v=1784294449&width=1200"
+      ],
+      "data": []
+    }
+  },
+  {
+    "id": 55,
+    "slug": "rampage-styles-kl-r61-kirmizi-siyah-oyuncu-koltugu",
+    "title": "STYLES KL-R61",
+    "filters": {},
+    "subtitle": "Oyuncu Koltuğu-Kırmızı/Siyah",
+    "categoryName": "Oyuncu Koltuğu",
+    "price": 9449,
+    "oldPrice": 11888,
+    "rating": 4.8,
+    "commentCount": 5,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/4993_568af53e-cb67-4a74-8b01-56a5956c4666.png?v=1719919420&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/4994_28bef42c-407c-4229-a4ff-d70d3ecc5785.png?v=1719919420&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/4995_12972413-73b3-4579-ab07-5f233cba102b.png?v=1719919420&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/4996_945bf540-ac0a-46b7-87f1-2e78a11d34c1.png?v=1719919420&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/4997_f53b4060-9523-4234-9b1d-1e1342d6740a.png?v=1719919420&width=400"
+    ],
+    "bulletPoints": [
+      "90-180°Ayarlanabilir Sırt Açısı",
+      "Ayarlanabilir Bel ve Boyun Yastığı",
+      "PVC Deri Malzeme",
+      "Metal Ayaklar",
+      "Oturma Genişliği           54 cm",
+      "Oturma Derinliği           52 cm",
+      "Oturma Yüksekliği         51 cm",
+      "Sırt Yüksekliği                86 cm",
+      "Sırt Genişliği                  56 cm",
+      "Taşıma kapasitesi:          120 kg",
+      "Net Ağırlık                     18 kg"
+    ],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [
+        "https://www.rampage.com.tr/cdn/shop/files/STYLES_KL-R61.png?v=1756897350&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/STYLES_KL-R61_1.png?v=1756897400&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/STYLES_KL-R61_2.png?v=1756897400&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/STYLES_KL-R61_3.png?v=1756897400&width=1200"
+      ],
+      "data": []
+    }
+  },
+  {
+    "id": 56,
+    "slug": "rampage-kl-r59-nova-siyah-beyaz-oyuncu-koltugu",
+    "title": "KL-R59 NOVA",
+    "filters": {},
+    "subtitle": "Oyuncu Koltuğu-Siyah/Beyaz",
+    "categoryName": "Oyuncu Koltuğu",
+    "price": 9699,
+    "oldPrice": null,
+    "rating": 4.8,
+    "commentCount": 6,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/11601.png?v=1719868287&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/11602.png?v=1719868287&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/11603.png?v=1719868287&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/11604.png?v=1719868288&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/11605.png?v=1719868288&width=400"
+    ],
+    "bulletPoints": [],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [
+        "https://www.rampage.com.tr/cdn/shop/files/row-1-column-1-3_2c7dd984-ea7e-49a4-8738-2c0f5f24fcb8.png?v=1770066241&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-2-column-1-3_27d3eb75-e28f-4df1-95d0-ec91c35521e2.png?v=1770066240&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-3-column-1-3_2c0b7ebf-560d-4f68-bc7c-152a11280a38.png?v=1770066240&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-4-column-1-3_3f34e045-29cf-485b-bb49-0c84fece1db0.png?v=1770066238&width=1200"
+      ],
+      "data": []
+    }
+  },
+  {
+    "id": 57,
+    "slug": "kl-r21-grand-series-ust-seviye-terletmez-kumas-fildisi-gaming-oyuncu-koltugu-1",
+    "title": "KL-R21 GRAND",
+    "filters": {},
+    "subtitle": "Grand Series Üst Seviye Terletmez Kumaş Oyuncu Koltuğu-Fildişi",
+    "categoryName": "Oyuncu Koltuğu",
+    "price": 15999,
+    "oldPrice": 16999,
+    "rating": 4.9,
+    "commentCount": 12,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/Untitled-2copy_e8bc8726-a171-4f7f-b2fd-712866b2529f.png?v=1746538547&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/Untitled-3copy_0e6c74ac-764c-4e66-a880-1876e9d1fc9d.png?v=1746538547&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/Untitled-6copy_d60c30f0-c575-4466-a9a2-4cdf9a981e58.png?v=1746538547&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/Untitled-4copy_2150f8ba-d8ec-41a1-aa43-af6b9b820e46.png?v=1746538547&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/Untitled-8copy_0c4b63fb-7896-4a6d-8e1e-755180e0302a.png?v=1746538547&width=400"
+    ],
+    "bulletPoints": [
+      "4D Kolçaklar",
+      "Çok Kilitli Frog Mekanizması",
+      "Ayarlanabilir Bel ve Boyun Yastığı",
+      "Terletmez Kumaş Malzeme",
+      "Metal Ayaklar",
+      "Oturma Genişliği            57cm",
+      "Oturma Derinliği            51-57 cm",
+      "Oturma Yüksekliği          51 cm",
+      "Sırt Yüksekliği                 86 cm",
+      "Sırt Genişliği                   58 cm",
+      "Taşıma kapasitesi:          120 kg",
+      "Net Ağırlık                      24.5 kg"
+    ],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [],
+      "data": []
+    }
+  },
+  {
+    "id": 58,
+    "slug": "rampage-kl-r72-woof-ust-seviye-terletmez-kumas-siyah-gaming-oyuncu-koltugu",
+    "title": "WOOF",
+    "filters": {},
+    "subtitle": "Üst Seviye Terletmez Kumaş Oyuncu Koltuğu-Siyah",
+    "categoryName": "Oyuncu Koltuğu",
+    "price": 14799,
+    "oldPrice": null,
+    "rating": 4.7,
+    "commentCount": 4,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/7914.png?v=1719867892&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/7915.png?v=1719867892&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/7916.png?v=1719867892&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/7917.png?v=1719867892&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/7918.png?v=1719867892&width=400"
+    ],
+    "bulletPoints": [
+      "Ayarlanabilir Bel ve Boyun Yastığı",
+      "Terletmez Kumaş Koltuk Malzemesi",
+      "Ayaklık Malzemesi          Metal",
+      "Sandalye Boyutu            132 cm",
+      "Koltuk Genişliği              40 cm",
+      "Koltuk Yüksekliği            53 cm",
+      "Sırt Yüksekliği                 81 cm",
+      "Sırt Genişliği                   54 cm",
+      "Koltuk Derinliği              50 cm",
+      "Taşıma kapasitesi:          120 kg",
+      "Net Ağırlık                      22.5 kg"
+    ],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [
+        "https://www.rampage.com.tr/cdn/shop/files/WOOF-1.png?v=1764690301&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/WOOF-2.png?v=1764690300&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/WOOF-3.png?v=1764690301&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/WOOF-4.png?v=1764690301&width=1200"
+      ],
+      "data": []
+    }
+  },
+  {
+    "id": 59,
+    "slug": "kl-r26-peak-ust-seviye-terletmez-kumas-gri-siyah-gaming-oyuncu-koltugu",
+    "title": "KL-R26",
+    "filters": {},
+    "subtitle": "KL-R26 Peak Üst Seviye Terletmez Kumaş Gri/Siyah Gaming Oyuncu Koltuğu",
+    "categoryName": "Oyuncu Koltuğu",
+    "price": 8999,
+    "oldPrice": null,
+    "rating": 4.0,
+    "commentCount": 3,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/7664.png?v=1719867758&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/7665.png?v=1719867758&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/7666.png?v=1719867758&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/7667.png?v=1719867758&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/7668.png?v=1719867758&width=400"
+    ],
+    "bulletPoints": [
+      "Döşeme Malzemesi: Terletmez özel kumaş kaplama",
+      "Kolçak Tipi: Fonksiyonel 2D kolçak tasarımı",
+      "Eğim Açısı: 90° ile 135° arasında ayarlanabilir sırt eğimi",
+      "Destek Üniteleri: Tam konforlu oturma ve sırt yastığı (Bel ve boyun desteği)",
+      "Tasarım: Geniş koltuk alanı sunan, oyun odaklı ve ergonomik tasarım"
+    ],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [],
+      "data": []
+    }
+  },
+  {
+    "id": 60,
+    "slug": "kl-r27-elemental-ayak-dayama-yerli-terletmez-kumas-gri-karbon-gaming-oyuncu-koltugu",
+    "title": "KL-R27",
+    "filters": {},
+    "subtitle": "KL-R27 Elemental Ayak Dayama Yerli Terletmez Kumaş Gri/Karbon Gaming Oyuncu Koltuğu",
+    "categoryName": "Oyuncu Koltuğu",
+    "price": 9499,
+    "oldPrice": 11449,
+    "rating": 5.0,
+    "commentCount": 6,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/42847_00.png?v=1761310160&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/42847_01.png?v=1761310161&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/42847_02.png?v=1761310161&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/42847_03.png?v=1761310161&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/42847_04.png?v=1761310161&width=400"
+    ],
+    "bulletPoints": [
+      "Kaplama Malzemesi: Terletmez özel kumaş kaplama",
+      "Kolçak Tipi: Fonksiyonel 2D kolçaklar",
+      "Mekanizma: Tam yatar konforlu tasarım",
+      "Destek Sistemleri: Entegre ayak uzatma desteği",
+      "Ergonomi: Çift destekli bel ve boyun yastıkları",
+      "Oturum Yapısı: Geniş ve tam konforlu oturma/sırt yüzeyi",
+      "Toplam Yükseklik: 125 - 133 cm",
+      "Sırt Yüksekliği: 82 cm",
+      "Net Ağırlık                      18 kg"
+    ],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [
+        "https://www.rampage.com.tr/cdn/shop/files/row-1-column-1-2_efe9cb9e-96a0-4be1-a5f8-a7262feb9b96.png?v=1772180776&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-2-column-1-2_a0401689-adbc-43de-8820-d84609e6875c.png?v=1772180777&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-3-column-1-2_e1553eb0-9c9e-476e-be14-d1ab2c2e747f.png?v=1772180777&width=1200",
+        "https://www.rampage.com.tr/cdn/shop/files/row-4-column-1-2_4100bc78-f4e6-41c0-883d-a144b5ce86f8.png?v=1772180777&width=1200"
+      ],
       "data": []
     }
   }
