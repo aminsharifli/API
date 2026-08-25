@@ -2867,16 +2867,396 @@
       "Oturum Yapısı: Geniş ve tam konforlu oturma/sırt yüzeyi",
       "Toplam Yükseklik: 125 - 133 cm",
       "Sırt Yüksekliği: 82 cm",
-      "Net Ağırlık                      18 kg"
+      "Sırt Genişliği: 54 cm"
+    ],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [],
+      "data": []
+    }
+  },
+  {
+    "id": 61,
+    "slug": "rampage-sg-r218-ps3-pc-x-input-kirmizi-usb-1-8m-joypad",
+    "title": "SG-R218",
+    "filters": {
+      "baglantituru": ["Kablolu"]
+    },
+    "subtitle": "PS3/PC XInput Usb 1.8m Joypad-Kırmızı",
+    "categoryName": "Oyun Kolu",
+    "price": 699,
+    "oldPrice": null,
+    "rating": 4.8,
+    "commentCount": 6,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/3788.png?v=1719843060&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/3786.png?v=1719843060&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/3787.png?v=1719843060&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/3789.png?v=1719843060&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/3790.png?v=1719843060&width=400"
+    ],
+    "bulletPoints": [],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [],
+      "data": []
+    }
+  },
+  {
+    "id": 62,
+    "slug": "rampage-sg-r601-ps3-pc-kirmizi-usb-1-8m-joypad",
+    "title": "SG-R601",
+    "filters": {
+      "baglantituru": ["Kablolu"]
+    },
+    "subtitle": "PS3/PC Usb 1.8m Kablolu Joypad-Kırmızı",
+    "categoryName": "Oyun Kolu",
+    "price": 599,
+    "oldPrice": null,
+    "rating": 3.8,
+    "commentCount": 5,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/3919.png?v=1719843126&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/3918.png?v=1719843126&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/3920.png?v=1719843126&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/3921.png?v=1719843126&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/3922.png?v=1719843126&width=400"
+    ],
+    "bulletPoints": [
+      "1000 Hz Veri Aktarım Hızı",
+      "PS3-PC Uyumlu",
+      "15 Adet Tuş"
+    ],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [],
+      "data": []
+    }
+  },
+  {
+    "id": 63,
+    "slug": "rampage-sg-r360-siyah-xbox-360-ve-usb-pc-destekli-kablolu-gamepad-oyun-kolu",
+    "title": "SG-R360",
+    "filters": {
+      "baglantituru": ["Kablolu"]
+    },
+    "subtitle": "Xbox-360 ve PC Usb Kablolu Gamepad Oyun Kolu-Siyah",
+    "categoryName": "Oyun Kolu",
+    "price": 749,
+    "oldPrice": null,
+    "rating": 4.8,
+    "commentCount": 6,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/3803.png?v=1719843092&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/3800.png?v=1719843092&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/3801.png?v=1719843092&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/3802.png?v=1719843092&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/3804.png?v=1719843092&width=400"
+    ],
+    "bulletPoints": [
+      "Titreşimli-Ergonomik",
+      "XBOX 360/PC Uyumlu",
+      "Tuş Sayısı                14 tuş",
+      "Analog Tus              2 Adet",
+      "1 milyon Tuş Ömrü",
+      "2.2m USB Kablolu Bağlantı",
+      "1000Hz Veri Aktarım Hızı"
+    ],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [],
+      "data": []
+    }
+  },
+  {
+    "id": 64,
+    "slug": "hydra-pro-siyah-bt-2-4-ghz-sarj-i̇stasyonlu-pc-gamepad-rgb-joypad-kopya",
+    "title": "HYDRA PRO",
+    "filters": {
+      "baglantituru": ["Kablosuz , Bluetooth"]
+    },
+    "subtitle": "Kablosuz Oyun Kolu Gamepad",
+    "categoryName": "Oyun Kolu",
+    "price": 2299,
+    "oldPrice": 2799,
+    "rating": 4.8,
+    "commentCount": 6,
+    "hasColorMode": 0,
+    "variants": [
+      {
+        "colorId": "c-beyaz",
+        "colorName": "Beyaz",
+        "colorCodes": ["#fff","#fff"],
+        "price": 2299,
+        "oldPrice": 2799,
+        "mainImage": "https://www.rampage.com.tr/cdn/shop/files/Untitled-9copy_d69e215c-da66-4234-9ec1-cbfa56d33ae5.png?v=1739540138&width=400",
+        "images": [
+          "https://www.rampage.com.tr/cdn/shop/files/Untitled-5copy_9da2be63-0ae0-4a10-8d44-95da1b6c5fcb.png?v=1739540138&width=400",
+          "https://www.rampage.com.tr/cdn/shop/files/Untitled-8copy_da9b0733-6958-4991-bffc-daf286303720.png?v=1739540138&width=400",
+          "https://www.rampage.com.tr/cdn/shop/files/Untitled-10copy_a856be14-1472-4464-8df8-220b555b0654.png?v=1739540138&width=400",
+          "https://www.rampage.com.tr/cdn/shop/files/Untitled-7copy_1823a5b8-5aa2-438f-8bc7-6a9493f75d60.png?v=1739540138&width=400"
+        ]
+      },
+      {
+        "colorId": "c-siyah",
+        "colorName": "Siyah",
+        "colorCodes": ["#000","#000"],
+        "price": 2299,
+        "oldPrice": 2799,
+        "mainImage": "https://www.rampage.com.tr/cdn/shop/files/Untitled-8copy_4fd92500-f6ec-4a6d-860b-cf8753dd55a1.png?v=1739447549&width=400",
+        "images": [
+          "https://www.rampage.com.tr/cdn/shop/files/Untitled-7copy_11820d11-eb9c-4f81-8740-5a1f4f568da6.png?v=1739447549&width=400",
+          "https://www.rampage.com.tr/cdn/shop/files/Untitled-4copy_1fe45518-c193-43d4-a981-839b28105f95.png?v=1739447549&width=400",
+          "https://www.rampage.com.tr/cdn/shop/files/Untitled-2copy_c01d4385-f740-4fb2-a212-85a541445ab6.png?v=1739447549&width=400",
+          "https://www.rampage.com.tr/cdn/shop/files/Untitled-6copy_040fe9bc-7359-4c1a-b19b-a98f846ef5e2.png?v=1739447549&width=400"
+        ]
+      }
+    ],
+    "defaultImages": [],
+    "bulletPoints": [
+      "USB, 2.4G ve Bluetooth bağlantı desteği!",
+      "PC, Android ve iOS ile tam uyumluluk!",
+      "Çift titreşim motoru ile gerçekçi his!",
+      "500mAh batarya ile 15 saat kesintisiz oyun keyfi!",
+      "Turbo modu ve hassas ayar butonları!",
+      "RGB ışık efektleri ile göz alıcı tasarım!",
+      "Ölü bölge ayarı ile kusursuz hassasiyet!"
+    ],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [],
+      "data": []
+    }
+  },
+  {
+    "id": 65,
+    "slug": "hydra-pro-beyaz-bt-2-4-ghz-sarj-i̇stasyonlu-pc-gamepad-rgb-joypad-kopya",
+    "title": "Tactic",
+    "filters": {
+      "baglantituru": ["Kablosuz , Bluetooth"]
+    },
+    "subtitle": "Bluetooth Çift Titreşimli PS4 Joypad-Beyaz",
+    "categoryName": "Oyun Kolu",
+    "price": 2279,
+    "oldPrice": 2479,
+    "rating": 4.2,
+    "commentCount": 6,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/Untitled-4copy_0c103ec8-1bd8-4960-88b9-db58d11589d9.png?v=1738241498&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/Untitled-5copy_1eae460d-80c4-4e1c-be70-06f0acdd7fb8.png?v=1738241498&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/Untitled-3copy_bf39945c-1609-4307-bf42-ae642bbb8755.png?v=1738241498&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/Untitled-6copy_e7220a20-891c-4339-b940-73386a95d7b9.png?v=1738241498&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/Untitled-7copy_6a28016e-9a98-4b81-bf37-66df0f33db20.png?v=1738241498&width=400"
+    ],
+    "bulletPoints": [],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [
+      "https://www.rampage.com.tr/cdn/shop/files/row-1-column-1_3db5548d-4d6d-4918-9558-18256022b74d.png?v=1751032164&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-2-column-1_f67fceaa-954a-4dd8-944a-e150a4993ea4.png?v=1751032156&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-3-column-1_5a1d34ac-4d9c-448f-8ba7-6fc68a37fca0.png?v=1751032167&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-4-column-1_bcd9d14c-4573-4844-b40d-afd5f57639d7.png?v=1751032153&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-5-column-1_df9f1247-2cc7-49e1-a40b-072d8ec9cc21.png?v=1751032166&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-6-column-1_88c885e7-3d64-44ca-a429-ff282409d2d4.png?v=1751032154&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-7-column-1_da669b9b-a2ea-4430-bf7d-67ddf676e7c6.png?v=1751032158&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-8-column-1_f911b1d0-9f43-4341-8001-b2dd801b80bd.png?v=1751032159&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-9-column-1_9a591019-7b09-4ab4-b660-9013bfec6030.png?v=1751032158&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-10-column-1_84d62a8b-2cf5-43c1-8296-780063c56d1e.png?v=1751032146&width=1200"
+    ],
+      "data": []
+    }
+  },
+  {
+    "id": 66,
+    "slug": "pulse-wave-ps3-pc-x-input-siyah-usb-1-8m-joypad",
+    "title": "PULSE WAVE",
+    "filters": {
+      "baglantituru": ["Kablolu"]
+    },
+    "subtitle": "PS3/PC Usb 1.8m Joypad-Siyah",
+    "categoryName": "Oyun Kolu",
+    "price": 699,
+    "oldPrice": null,
+    "rating": 4.8,
+    "commentCount": 6,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/01_4ee4d35e-b9e2-4b00-91e8-a4b568076acb.png?v=1745568667&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/02_cf5a7e37-cfa6-4bc5-aa03-0800ff7fc1b9.png?v=1745568667&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/03_92226eb1-9ded-48b2-99b3-28252d5bd1d5.png?v=1745568667&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/06_5eb5b287-72af-4061-b9ba-531fbf0620ea.png?v=1745568667&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/04_d0a48959-c5e9-498a-ac69-bc0abcd393df.png?v=1745568667&width=400"
+    ],
+    "bulletPoints": [],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [],
+      "data": []
+    }
+  },
+  {
+    "id": 67,
+    "slug": "hydra-beyaz-bt-2-4-ghz-pc-gamepad-rgb-joypad-kopya",
+    "title": "HYDRA",
+    "filters": {
+      "baglantituru": ["Kablosuz , Bluetooth"]
+    },
+    "subtitle": "Kablosuz Oyun Kolu Gamepad",
+    "categoryName": "Oyun Kolu",
+    "price": 1449,
+    "oldPrice": 1599,
+    "rating": 4.8,
+    "commentCount": 20,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/Untitled-7copy_9370d70d-f805-43fc-ba43-ef5ebbcaf7c8.png?v=1739540321&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/Untitled-5copy_6cc9475d-e17b-4c12-a931-7f643a3428a1.png?v=1739540321&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/Untitled-6copy_a74149ae-5e16-4130-92a7-ba58b79289a0.png?v=1739540321&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/Untitled-3copy_85fa54ba-2fa8-4142-b112-621b636aeb8f.png?v=1739540321&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/Untitled-2copy_991a5fe3-e65e-44ac-925e-bf2e5ef3a23c.png?v=1739540321&width=400"
+    ],
+    "bulletPoints": [
+      "USB, 2.4G ve Bluetooth bağlantı desteği!",
+      "PC ve Android ile tam uyumluluk!",
+      "Çift titreşim motoru ile gerçekçi his!",
+      "500mAh batarya ile 15 saat kesintisiz oyun keyfi!",
+      "Turbo modu ve hassas ayar butonları!",
+      "RGB ışık efektleri ile göz alıcı tasarım!",
+      "Ölü bölge ayarı ile kusursuz hassasiyet!"
     ],
     "technicalSpecs": {
       "type": "images",
       "images": [
-        "https://www.rampage.com.tr/cdn/shop/files/row-1-column-1-2_efe9cb9e-96a0-4be1-a5f8-a7262feb9b96.png?v=1772180776&width=1200",
-        "https://www.rampage.com.tr/cdn/shop/files/row-2-column-1-2_a0401689-adbc-43de-8820-d84609e6875c.png?v=1772180777&width=1200",
-        "https://www.rampage.com.tr/cdn/shop/files/row-3-column-1-2_e1553eb0-9c9e-476e-be14-d1ab2c2e747f.png?v=1772180777&width=1200",
-        "https://www.rampage.com.tr/cdn/shop/files/row-4-column-1-2_4100bc78-f4e6-41c0-883d-a144b5ce86f8.png?v=1772180777&width=1200"
-      ],
+      "https://www.rampage.com.tr/cdn/shop/files/row-1-column-1_ba9b6c66-7590-4baa-820d-485dce87f5da.png?v=1740033078&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-2-column-1_6b493ea8-9e4f-4bbf-9eea-5f9a2f20eba0.png?v=1740033078&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-3-column-1_c6012cf8-53ed-46de-a61f-5003e94758c0.png?v=1740033075&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-4-column-1_317c3a52-20d4-4571-b8e2-573ed6ea22cf.png?v=1740033070&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-5-column-1_e126a5f0-b736-48f5-835d-33930869df68.png?v=1740033066&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-6-column-1_776cb2bf-93c4-43d0-850e-07a260e7d656.png?v=1740033067&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-7-column-1_c6e088d8-549c-431f-9706-4b0dfd3a6954.png?v=1740033050&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-8-column-1_c8e230e7-b44d-4afa-9c22-7876d2537a75.png?v=1740033053&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-9-column-1_deb5850b-8b44-4dd3-ac91-7d7b16e824a5.png?v=1740033046&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-10-column-1_212cc82b-0407-44d5-a97e-ca3327738129.png?v=1740033025&width=1200"
+    ],
+      "data": []
+    }
+  },
+  {
+    "id": 68,
+    "slug": "snopy-rampage-sg-rps4-max-siyah-bluetooth-cift-titresimli-800mah-1-8m-ps4-gamepad-oyun-kolu",
+    "title": "SG-RPS4 MAX",
+    "filters": {
+      "baglantituru": ["Kablosuz , Bluetooth"]
+    },
+    "subtitle": "Bluetooth Çift Titreşimli 800mAh PS4 Oyun Kolu",
+    "categoryName": "Oyun Kolu",
+    "price": 1479,
+    "oldPrice": null,
+    "rating": 3.8,
+    "commentCount": 6,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/11794.png?v=1719843307&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/11795.png?v=1719843307&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/11796.png?v=1719843307&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/11804.png?v=1719843307&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/11805.png?v=1719843307&width=400"
+    ],
+    "bulletPoints": [
+      "PS4 ve PC Uyumlu",
+      "17 Adet Tuş",
+      "10 Milyon Tuş Vuruş Ömrü",
+      "1000Hz (HID için)Veri Aktarım Hızı",
+      "2 Adet Titreşim Motoru",
+      "Bluetooth 2.1+EDR Bağlantı",
+      "10m Mesafe",
+      "800 mAh Pil Kapasitesi",
+      "209.4gr Ürün Ağırlığı",
+      "10 saat Pil Süresi"
+    ],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [],
+      "data": []
+    }
+  },
+  {
+    "id": 69,
+    "slug": "rampage-tactic-beyaz-bluetooth-cift-titresimli-ps4-gamepad-joypad-kopya",
+    "title": "Tactic",
+    "filters": {
+      "baglantituru": ["Kablosuz , Bluetooth"]
+    },
+    "subtitle": "Bluetooth Çift Titreşimli PS4 Joypad-Metalik Siyah",
+    "categoryName": "Oyun Kolu",
+    "price": 2279,
+    "oldPrice": 2479,
+    "rating": 3.3,
+    "commentCount": 4,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/Untitled-3copy_cd01a2e8-7a5d-48c7-9146-c4cd68d522fb.png?v=1738241674&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/Untitled-4copy_de2fead3-6484-4ab1-9a22-580db50e6f63.png?v=1738241674&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/Untitled-2copy_ec62be15-8aa5-4f97-b38e-0436e2b86e82.png?v=1738241674&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/Untitled-5copy_e4e31a4b-df8a-4bf0-a975-600ad9f81104.png?v=1738241674&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/Untitled-6copy_d43b11b7-b110-42ac-90e3-953126d9a359.png?v=1738241674&width=400"
+    ],
+    "bulletPoints": [],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [
+      "https://www.rampage.com.tr/cdn/shop/files/row-1-column-1_adaa4f96-8035-46ec-90af-eb6e6855ede0.png?v=1751031416&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-2-column-1_b1d90dd8-4b8f-4842-9077-17c9571b7d11.png?v=1751031419&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-3-column-1_c0ae71fd-79f7-4ff2-b47c-de6e5c8bf28e.png?v=1751031421&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-4-column-1_b41bd020-ed78-4a62-81af-9703db78b443.png?v=1751031415&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-5-column-1_154e5fa0-eb3c-41ad-8491-c91e0433d168.png?v=1751031419&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-6-column-1_ebf1e566-7a1b-4d24-b18a-2490fbb2e16a.png?v=1751031437&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-7-column-1_31c6634e-b9f8-42e3-bbe4-f752415b2d00.png?v=1751031428&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-8-column-1_04112fe1-2ef8-48e5-ad91-e21512d07ea8.png?v=1751031433&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-9-column-1_0a4869e6-8ac0-46ef-a8e4-84fdc386c56a.png?v=1751031417&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-10-column-1_1103e9ef-21f9-4be2-b4f5-f58f7559890a.png?v=1751032033&width=1200"
+    ],
+      "data": []
+    }
+  },
+  {
+    "id": 70,
+    "slug": "rampage-sg-r218-ps3-pc-x-input-sari-usb-1-8m-joypad",
+    "title": "SG-R218",
+    "filters": {
+      "baglantituru": ["Kablolu"]
+    },
+    "subtitle": "PS3/PC XInput Usb1.8m Kablolu Joypad-Sarı",
+    "categoryName": "Oyun Kolu",
+    "price": 699,
+    "oldPrice": null,
+    "rating": 4.8,
+    "commentCount": 6,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/3795.png?v=1719843076&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/3793.png?v=1719843076&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/3794.png?v=1719843076&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/3796.png?v=1719843076&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/3790.png?v=1719843060&width=400"
+    ],
+    "bulletPoints": [],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [],
       "data": []
     }
   }
