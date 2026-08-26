@@ -4255,23 +4255,9 @@
       "https://www.rampage.com.tr/cdn/shop/files/nova-1.png?v=1759923134&width=1200",
       "https://www.rampage.com.tr/cdn/shop/files/nova-2.png?v=1759923133&width=1200",
       "https://www.rampage.com.tr/cdn/shop/files/nova-3.png?v=1759923133&width=1200",
-      "https://www.rampage.com.tr/cdn/shop/files/nova-4.png?v=1759923131&width=1200",
-      "https://www.rampage.com.tr/cdn/shop/files/LOOPY-WHITE-5_2x_7560beb3-fd09-44e6-b99a-708c9e8fa18e.png?v=1745410553&width=1200",
-      "https://www.rampage.com.tr/cdn/shop/files/LOOPY-WHITE-6_2x_e8eb029d-5c2b-4cb1-969a-046c1e1e0a74.png?v=1745410551&width=1200"
+      "https://www.rampage.com.tr/cdn/shop/files/nova-4.png?v=1759923131&width=1200"
     ],
-      "data": {
-        "genelozellikler": ["Marka: Rampage", "Model: Loopy", "Renk: Beyaz", "Boyut: 420x285x385mm", "Materyal: Metal"],
-        "teknikozellikler": [
-          "Malzeme Kalınlığı: 0,6mm", "Sol Panel: Temperli Cam", "Sağ Panel: Metal", "Uzaktan (IR veya RF): Hayır", "CPU Soğutucu Yüksekliği: Maks. 160mm",
-          "VGA Uzunluğu Sınırlaması: Maks. 445mm", "PSU Uzunluğu Sınırlaması: 240mm", "Net Ağırlık: 8,36 kg", "Brüt Ağırlık: 10,8 kg", "Kutu Boyutu: 460x285x398mm"
-        ],
-        "destekozellikler": [
-          "3.5 HDD: 2", "2,5 SSD: 3", "Ses Desteği: HD Ses 1 Adet", "Ön Fan Desteği: Hayır", "Üst Fan Desteği: 3x120mm",
-          "Arka Fan Desteği: 1x120mm", "Sol Fan Desteği: Hayır", "Anakart Fan Desteği: 3x120mm", "Anakart Desteği: ATX / Micro ATX / ITX Metal Örgü Siyah"
-        ],
-        "baglantiozellikleri": ["USB 2.0: 2 Adet", "TYPE-C: 1 Adet", "Mikrofon Girişi: 1 Adet 3.5mm Jak", "Kulaklık Girişi: 1 Adet 3.5mm Jak"],
-        "kutuicerigi": ["Rampage Loopy: 1x", "Kullanım Kılavuzu: 1x", "Garanti Belgesi: 1x", "Garanti Süresi: 24 Ay"]
-      }
+      "data": {}
     }
   }
 ]
