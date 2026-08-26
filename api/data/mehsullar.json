@@ -2987,7 +2987,7 @@
     "oldPrice": 2799,
     "rating": 4.8,
     "commentCount": 6,
-    "hasColorMode": 0,
+    "hasColorMode": 1,
     "variants": [
       {
         "colorId": "c-beyaz",
@@ -3242,8 +3242,8 @@
     "categoryName": "Oyun Kolu",
     "price": 699,
     "oldPrice": null,
-    "rating": 4.8,
-    "commentCount": 6,
+    "rating": 3.1,
+    "commentCount": 4,
     "hasColorMode": 0,
     "variants": [],
     "defaultImages": [
@@ -3251,13 +3251,1027 @@
       "https://www.rampage.com.tr/cdn/shop/files/3793.png?v=1719843076&width=400",
       "https://www.rampage.com.tr/cdn/shop/files/3794.png?v=1719843076&width=400",
       "https://www.rampage.com.tr/cdn/shop/files/3796.png?v=1719843076&width=400",
-      "https://www.rampage.com.tr/cdn/shop/files/3790.png?v=1719843060&width=400"
+      "https://www.rampage.com.tr/cdn/shop/files/3797.png?v=1719843076&width=400"
     ],
     "bulletPoints": [],
     "technicalSpecs": {
       "type": "images",
       "images": [],
       "data": []
+    }
+  },
+  {
+    "id": 71,
+    "slug": "rampage-rms-g8-antares-2-1-25w-bluetooth-usb-sd-fm-rainbow-siyah-led-isikli-gaming-speaker-hoparlor",
+    "title": "RMS-G8 Antares",
+    "filters": {},
+    "subtitle": "2+1 25W Bluetooth+Usb Rainbow Oyuncu Speaker Hoparlör-Siyah",
+    "categoryName": "Ses Sistemi",
+    "price": 2299,
+    "oldPrice": null,
+    "rating": 4.8,
+    "commentCount": 6,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/30253_00.png?v=1761832821&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/30253_01.png?v=1761832821&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/30253_02.png?v=1761832821&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/30253_03.png?v=1761832821&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/30253_04.png?v=1761832821&width=400"
+    ],
+    "bulletPoints": [],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [
+      "https://www.rampage.com.tr/cdn/shop/files/row-1-column-1_c35cb28b-2a35-478e-90c3-c8dbaa76367c.jpg?v=1761311040&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-2-column-1_774ba3a2-2571-4d74-bd9a-cf7fd1ede7f5.jpg?v=1761311040&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-3-column-1_e3c0fc2d-4fd7-4923-a8ea-67523ef7156c.jpg?v=1761311040&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-4-column-1_c886b303-5bbf-4abc-9a50-a210e1a47212.jpg?v=1761311039&width=1200"
+    ],
+      "data": []
+    }
+  },
+  {
+    "id": 72,
+    "slug": "rampage-arty-x13-2-0-bluetoothlu-rms-3w-2-rgb-isikli-multimedia-usb-5v-45db-gaming-oyuncu-speaker",
+    "title": "ARTY X13",
+    "filters": {},
+    "subtitle": "2.0 Bluetoothlu Rms 2x3W RGB Multimedia Usb 5V Oyuncu Speaker",
+    "categoryName": "Ses Sistemi",
+    "price": 999,
+    "oldPrice": null,
+    "rating": 3.8,
+    "commentCount": 6,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/10565.png?v=1719906789&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/10566.png?v=1719906789&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/10567.png?v=1719906789&width=400"
+    ],
+    "bulletPoints": [],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [],
+      "data": []
+    }
+  },
+  {
+    "id": 73,
+    "slug": "rm-1-soundwave-plus-siyah-2x15w-34w-16v-4-06a-bt-usb-aux-tf-kartli-gaming-soundbar-speaker",
+    "title": "RM-1 SoundWave Plus",
+    "filters": {},
+    "subtitle": "Siyah 2X15W+34W Gaming Soundbar Speaker",
+    "categoryName": "Ses Sistemi",
+    "price": 3999,
+    "oldPrice": null,
+    "rating": 4.5,
+    "commentCount": 5,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/01_c1adadeb-a7db-49cd-a9af-fa97b8f9bbfe.png?v=1741152585&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/02_929be2c5-f3af-49a8-b07d-eecaf97cbd51.png?v=1741152585&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/03_fb31ab29-9171-4006-b1d8-b07444ce5411.png?v=1741152585&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/04_6b7fd9ec-38f2-49bf-a4e3-90fc72334f73.png?v=1741152585&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/05_7396e28c-1ebb-433e-9e21-6edb18133f2c.png?v=1741152585&width=400"
+    ],
+    "bulletPoints": [],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [
+      "https://www.rampage.com.tr/cdn/shop/files/row-1-column-1_665617c6-721d-46ed-865f-a39d2b27a165.jpg?v=1772463370&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-2-column-1_293dafb6-9143-47d2-9f0d-c83048c5799c.jpg?v=1772463371&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-3-column-1_820d7d2e-bb7b-4f7d-b1f9-fb3c6a32d7b6.jpg?v=1772463371&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-4-column-1_c4e59ead-ff72-4b06-a7c5-a92955bd9a10.jpg?v=1772463370&width=1200"
+    ],
+      "data": []
+    }
+  },
+  {
+    "id": 74,
+    "slug": "rampage-rms-n29-2-0-3w-2-usb-5v-rainbow-aydinlatmali-gaming-speaker-hoparlor",
+    "title": "RMS-N29",
+    "filters": {},
+    "subtitle": "2.0 2x3W Usb 5V Rainbow Oyuncu Speaker Hoparlör",
+    "categoryName": "Ses Sistemi",
+    "price": 799,
+    "oldPrice": null,
+    "rating": 3.7,
+    "commentCount": 5,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/7140.png?v=1719837262&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/7141.png?v=1719837262&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/7142.png?v=1719837262&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/7143.png?v=1719837262&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/7144.png?v=1719837262&width=400"
+    ],
+    "bulletPoints": [],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [
+      "https://www.rampage.com.tr/cdn/shop/files/row-1-column-1_53c5d5f1-86d3-4815-a5f4-891b077938c3.png?v=1752837778&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-2-column-1_c10c8faf-3ab6-46ca-b709-c6c7647a6893.png?v=1752837780&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-3-column-1_83fb8665-21c2-4915-b0d4-c8f279901a0a.png?v=1752837780&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-4-column-1_4f48c264-7e2a-4a62-856d-aba6817ba2cf.png?v=1752837776&width=1200"
+    ],
+      "data": []
+    }
+  },
+  {
+    "id": 75,
+    "slug": "rms-g7-falsetto-2-0-6-watt-rgb-multimedya-oyuncu-speaker-kirmizi",
+    "title": "RMS-G7 FALSETTO",
+    "filters": {},
+    "subtitle": "2.0 6W RGB Multimedya Oyuncu Speaker-Kırmızı",
+    "categoryName": "Ses Sistemi",
+    "price": 549,
+    "oldPrice": null,
+    "rating": 4.8,
+    "commentCount": 5,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/5962.png?v=1719837175&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/5963.png?v=1719837175&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/5964.png?v=1719837175&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/5966.png?v=1719837175&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/5967.png?v=1719837175&width=400"
+    ],
+    "bulletPoints": [
+      "7 Mod RGB Aydınlatma",
+      "6 Watt RMS Ses Gücü",
+      "Usb ve 3.5mm Jack Bağlantısı",
+      "PC ve Notebook Uyumlu"
+    ],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [
+      "https://www.rampage.com.tr/cdn/shop/files/row-1-column-1_e66655fd-72de-4820-a94e-d4e3844bf960.jpg?v=1759500087&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-2-column-1_94e7cf7d-102c-4280-8db1-94226f215ad4.jpg?v=1759500088&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-3-column-1_c984b54c-ca67-493e-923f-cc4cdc40d2fc.jpg?v=1759500088&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-4-column-1_dd09c453-ab0e-4737-8647-4ef2ace4b224.jpg?v=1759500087&width=1200"
+    ],
+      "data": []
+    }
+  },
+  {
+    "id": 76,
+    "slug": "rampage-rms-175bt-2-1-5w-2-bluetooth-usb-tf-fm-rainbow-aydinlatmali-gaming-speaker-hoparlor",
+    "title": "RMS-175BT",
+    "filters": {},
+    "subtitle": "2+1 2x5W Bluetooth+Usb-TF-FM Rainbow Oyuncu Speaker Hoparlör",
+    "categoryName": "Ses Sistemi",
+    "price": 1599,
+    "oldPrice": null,
+    "rating": 4.2,
+    "commentCount": 4,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/6620.png?v=1719834458&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/6621.png?v=1719834459&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/6622.png?v=1719834459&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/6623.png?v=1719834459&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/6624.png?v=1719834459&width=400"
+    ],
+    "bulletPoints": [],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [
+      "https://www.rampage.com.tr/cdn/shop/files/row-1-column-1_35be1040-f1b7-4b59-aef4-93d7e6cbf4db.png?v=1752221679&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-2-column-1_cc37d7b8-56e8-4c61-b2bc-0876caedc167.png?v=1752221679&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-3-column-1_7a661b69-7e99-44eb-b0ce-5b782776ab58.png?v=1752221680&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-4-column-1_e3ca54d4-733e-4e52-9f5e-2882ed4f7309.png?v=1752221674&width=1200"
+    ],
+      "data": []
+    }
+  },
+  {
+    "id": 77,
+    "slug": "rampage-elegant-x10-2-0-bluetoothlu-rms-3w-2-rgb-isikli-multimedia-usb-5v-45db-gaming-oyuncu-speaker",
+    "title": "ELEGANT X10",
+    "filters": {},
+    "subtitle": "2.0 Bluetooth Rms 2x3W RGB Multimedia Oyuncu Speaker",
+    "categoryName": "Ses Sistemi",
+    "price": 939,
+    "oldPrice": null,
+    "rating": 4.8,
+    "commentCount": 4,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/12883.png?v=1719837281&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/12884.png?v=1719837281&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/12885.png?v=1719837281&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/12886.png?v=1719837281&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/12887.png?v=1719837281&width=400"
+    ],
+    "bulletPoints": [],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [],
+      "data": []
+    }
+  },
+  {
+    "id": 78,
+    "slug": "rampage-rms-x8-majesty-bluetooth-fmli-rgb-isikli-multimedia-gaming-oyuncu-2-0-speaker",
+    "title": "RMS-X8 MAJESTY",
+    "filters": {},
+    "subtitle": "Bluetooth RGB Multimedia Oyuncu 2.0 Speaker",
+    "categoryName": "Ses Sistemi",
+    "price": 999,
+    "oldPrice": 1018,
+    "rating": 4.8,
+    "commentCount": 6,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/11357.png?v=1719837250&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/11358.png?v=1719837250&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/11359.png?v=1719837250&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/11360.png?v=1719837250&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/11361.png?v=1719837250&width=400"
+    ],
+    "bulletPoints": [],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [],
+      "data": []
+    }
+  },
+  {
+    "id": 79,
+    "slug": "rampage-rms-x7-spectra-bluetooth-fmli-rgb-isikli-multimedia-gaming-oyuncu-2-0-speaker",
+    "title": "RMS-X7 SPECTRA",
+    "filters": {},
+    "subtitle": "Bluetooth RGB Multimedia Oyuncu 2.0 Speaker",
+    "categoryName": "Ses Sistemi",
+    "price": 749,
+    "oldPrice": 898,
+    "rating": 4.4,
+    "commentCount": 6,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/10620.png?v=1719837231&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/10621.png?v=1719837231&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/10622.png?v=1719837231&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/10623.png?v=1719837231&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/10624.png?v=1719837231&width=400"
+    ],
+    "bulletPoints": [],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [],
+      "data": []
+    }
+  },
+  {
+    "id": 80,
+    "slug": "rampage-rms-175bt-2-1-5w-2-bluetooth-usb-tf-fm-rainbow-aydinlatmali-gaming-speaker-hoparlor",
+    "title": "RMS-175BT",
+    "filters": {},
+    "subtitle": "2+1 2x5W Bluetooth+Usb-TF-FM Rainbow Oyuncu Speaker Hoparlör",
+    "categoryName": "Ses Sistemi",
+    "price": 1599,
+    "oldPrice": null,
+    "rating": 4.2,
+    "commentCount": 6,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/6621.png?v=1719834459&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/6620.png?v=1719834458&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/6622.png?v=1719834459&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/6623.png?v=1719834459&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/6624.png?v=1719834459&width=400"
+    ],
+    "bulletPoints": [],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [],
+      "data": []
+    }
+  },
+  {
+    "id": 81,
+    "slug": "mate-m750-80pb-750w-12cm-fan-full-modular-80-plus-bronze-aktif-pfc-siyah-power-supply-kopya",
+    "title": "MATE M650-80PB",
+    "filters": {},
+    "subtitle": "Mate M650-650W Full Modular 80 Plus Bronze Aktif Pfc Power Supply-Beyaz",
+    "categoryName": "Güç Kaynağı",
+    "price": 2599,
+    "oldPrice": null,
+    "rating": 4.7,
+    "commentCount": 6,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/02_11ccc704-af51-43a2-a9d9-a1b326792cb0.png?v=1729692425&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/03_c9897176-da81-46c8-88d8-75fbfa1ae1f6.png?v=1729692426&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/04_4a6e6375-bd1a-4ad5-a611-11b91371d8ca.png?v=1729692425&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/01_7489b12b-3652-4039-af2b-68817908ecb3.png?v=1729692426&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/05_10cc8a60-14ad-4aa3-ac05-d47b93f9300a.png?v=1729692426&width=400"
+    ],
+    "bulletPoints": [],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [],
+      "data": []
+    }
+  },
+  {
+    "id": 82,
+    "slug": "fp-series-m850-80pb-850w-80-plus-bronze-14cm-fan-full-modular-apfc-siyah-power-supply",
+    "title": "M850-80PB",
+    "filters": {},
+    "subtitle": "Fp Series 850W 80 Plus Bronze 14cm Fan Full Modular Apfc Power Supply-Siyah",
+    "categoryName": "Güç Kaynağı",
+    "price": 3269,
+    "oldPrice": null,
+    "rating": 4.8,
+    "commentCount": 7,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/Untitled-6copy_6d9cea2a-d387-4f57-89ce-d83d27b5c226.png?v=1751466165&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/Untitled-5copy_a773187c-4d03-4976-807c-0ae36310bd2d.png?v=1751466165&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/Untitled-4copy_0bebc63c-9373-4163-8096-95874cef9bb2.png?v=1751466165&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/Untitled-3copy_08ec2a74-12a5-43f9-93b9-c85fbfce6a39.png?v=1751466165&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/Untitled-2copy_e73611fd-3b19-4add-9967-51f254e9ef46.png?v=1751466165&width=400"
+    ],
+    "bulletPoints": [],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [],
+      "data": []
+    }
+  },
+  {
+    "id": 83,
+    "slug": "p850-850w-80-gold-aktif-pfc-pc-power-supply-beyaz",
+    "title": "P850",
+    "filters": {},
+    "subtitle": "850W 80+Gold Aktif Pfc PC Power Supply-Beyaz",
+    "categoryName": "Güç Kaynağı",
+    "price": 4889,
+    "oldPrice": null,
+    "rating": 4.3,
+    "commentCount": 5,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/01_881b05cb-4b59-4743-a199-0477d9bbdced.png?v=1727854132&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/02_c72e29d3-69f8-4195-94ea-dcf0a5a5f7bc.png?v=1727854132&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/03_671e7358-308d-4c69-bcc2-f25b243420e6.png?v=1727854132&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/04_65a6a2f5-42ec-4b2c-ad56-0e0f4fcef8ae.png?v=1727854132&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/05_d913ab9e-0786-4718-b059-8c68e41a423f.png?v=1727854132&width=400"
+    ],
+    "bulletPoints": [],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [],
+      "data": []
+    }
+  },
+  {
+    "id": 84,
+    "slug": "p850-850w-80-gold-apfc-14cm-long-life-hdb-fan-siyah-pc-power-supply-kopya",
+    "title": "MATE M750-80PB",
+    "filters": {},
+    "subtitle": "750W 12cm Fan Full Modular 80 Plus Bronze Aktif Pfc Power Supply-Beyaz",
+    "categoryName": "Güç Kaynağı",
+    "price": 3199,
+    "oldPrice": null,
+    "rating": 4.4,
+    "commentCount": 6,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/02_d132e3af-bccb-4aff-8a55-fe46440592df.png?v=1729692007&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/03_6cc6d132-2c31-4871-ad1c-ae8590c84684.png?v=1729692007&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/04_14b2fc51-1d19-45c1-a0fb-e14a5db5fdbc.png?v=1729692007&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/01_a1bf0fdd-017c-420d-bb8e-3bf7d7ff992c.png?v=1729692007&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/05_a3b774ff-46cc-4add-83d3-561064ecf10e.png?v=1729692007&width=400"
+    ],
+    "bulletPoints": [],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [],
+      "data": []
+    }
+  },
+  {
+    "id": 85,
+    "slug": "rampage-forza-ftx-1200-1-1200w-80-plus-platinium-serti̇fi̇kali-full-modular-power-supply-kopya",
+    "title": "P750",
+    "filters": {},
+    "subtitle": "750W 80+Gold Aktif Pfc PC Power Supply-Beyaz",
+    "categoryName": "Güç Kaynağı",
+    "price": 3299,
+    "oldPrice": 3499,
+    "rating": 4.5,
+    "commentCount": 5,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/01.png?v=1727853951&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/02.png?v=1727853951&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/03.png?v=1727853951&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/04.png?v=1727853951&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/05.png?v=1727853951&width=400"
+    ],
+    "bulletPoints": [],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [],
+      "data": []
+    }
+  },
+  {
+    "id": 86,
+    "slug": "mate-m650-80pb-650w-12cm-fan-full-modular-80-plus-bronze-aktif-pfc-beyaz-power-supply-kopya",
+    "title": "MATE M650-80PB",
+    "filters": {},
+    "subtitle": "Mate M650-650W Full Modular 80 Plus Bronze Aktif Pfc Power Supply-Siyah",
+    "categoryName": "Güç Kaynağı",
+    "price": 2699,
+    "oldPrice": null,
+    "rating": 4.3,
+    "commentCount": 7,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/02_4c08249f-0a09-4d3a-9d6d-cb238cf13dc8.png?v=1729692636&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/03_f0714d89-3f9b-4220-bfeb-1fc2cd6871e0.png?v=1729692635&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/04_81513a7b-88d8-4ce6-aac4-8246171e13cf.png?v=1729692636&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/01_971abfa6-d702-4bd2-b7f3-fa0618b32fc6.png?v=1729692636&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/05_299beb96-a79b-4ef4-ad56-abf1eff96e45.png?v=1729692636&width=400"
+    ],
+    "bulletPoints": [],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [],
+      "data": []
+    }
+  },
+  {
+    "id": 87,
+    "slug": "rmp-650-80pb-650w-14cm-siyah-fan-80-plus-bronze-aktif-pfc-power-supply-kutusuz-kopya",
+    "title": "RMP-650-80PB",
+    "filters": {},
+    "subtitle": "650W 14cm Fan 80 Plus Bronze Aktif Pfc Power Supply-Beyaz",
+    "categoryName": "Güç Kaynağı",
+    "price": 2199,
+    "oldPrice": 2699,
+    "rating": 4.3,
+    "commentCount": 3,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/01_a321bde5-267b-46ee-865a-4d3a7abb248b.png?v=1733234740&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/02_0b35af59-5dcf-4419-8078-d5dff688ed21.png?v=1733234740&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/03_274e3fee-049b-4797-8894-7951a23ad7e6.png?v=1733234740&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/04_9e19a3db-5338-432a-9a0b-412d7ffb0c3e.png?v=1733234740&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/05_cdc0d1ab-1284-489b-8136-567ab496110f.png?v=1733234740&width=400"
+    ],
+    "bulletPoints": [],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [],
+      "data": []
+    }
+  },
+  {
+    "id": 88,
+    "slug": "rmp-650-80pb-650w-14cm-siyah-fan-80-plus-bronze-aktif-pfc-power-supply-kopya",
+    "title": "RMP-600-80P",
+    "filters": {},
+    "subtitle": "600W 80 Plus Bronze 12cm Fan Aktif Pfc Power Supply (Kutusuz)",
+    "categoryName": "Güç Kaynağı",
+    "price": 1799,
+    "oldPrice": null,
+    "rating": 4.5,
+    "commentCount": 3,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/01_40488663-7488-4135-8f4f-f74ed76ad59c.png?v=1733234396&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/03_3064f201-f440-440c-ba3c-52d0fed8b98b.png?v=1733234396&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/02_085d466a-a462-42c7-9f25-145c0cbe4cde.png?v=1733234396&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/04_bd74fed2-7b5e-4907-8c49-0e4ec335ca0f.png?v=1733234396&width=400"
+    ],
+    "bulletPoints": [],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [],
+      "data": []
+    }
+  },
+  {
+    "id": 89,
+    "slug": "rampage-p850-850w-80-gold-apfc-14cm-long-life-hdb-fan-siyah-pc-power-supply",
+    "title": "P850",
+    "filters": {},
+    "subtitle": "850W 80+GOLD APFC 14cm Long Life HDB Fan Siyah PC Power Supply",
+    "categoryName": "Güç Kaynağı",
+    "price": 4889,
+    "oldPrice": null,
+    "rating": 4.2,
+    "commentCount": 4,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/10806.png?v=1719840433&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/10807.png?v=1719840433&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/10808.png?v=1719840433&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/10809.png?v=1719840433&width=400"
+    ],
+    "bulletPoints": [],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [],
+      "data": []
+    }
+  },
+  {
+    "id": 90,
+    "slug": "rgb-600-600w-80-plus-bronze-aktif-pfc-12cm-rgb-fanli-power-supply-kopya",
+    "title": "RGB-650",
+    "filters": {},
+    "subtitle": "650W 80Plus Bronze Aktif PFC 12cm RGB Fanlı Power Supply",
+    "categoryName": "Güç Kaynağı",
+    "price": 3199,
+    "oldPrice": 4599,
+    "rating": 4.3,
+    "commentCount": 4,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/01_d2439c08-ea68-4360-8267-61439d69101d.png?v=1736254478&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/02_6c66f5eb-e24f-4475-8a0f-2add17085591.png?v=1736254478&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/03_21014037-399f-473f-be17-7e5183b4e43d.png?v=1736254478&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/04_29cc84dd-10a1-43ea-915f-83cf86f19fae.png?v=1736254478&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/05_7135b5f2-6d3d-4d98-8023-989150e255df.png?v=1736254478&width=400"
+    ],
+    "bulletPoints": [],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [],
+      "data": []
+    }
+  },
+  {
+    "id": 91,
+    "slug": "rampage-loopy-beyaz-7-12cm-argb-fan-kontrolcu-temperli-cam-kumandali-atx-mid-t-gaming-oyuncu-kasasi",
+    "title": "LOOPY Beyaz",
+    "filters": {},
+    "subtitle": "Loopy 7x12cm ARGB Fan Kumandalı Atx Mid-T Oyuncu Kasası-Beyaz",
+    "categoryName": "PC Kasa",
+    "price": 5499,
+    "oldPrice": null,
+    "rating": 4.8,
+    "commentCount": 4,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/40720_00_276c23e3-e1e0-4688-9d93-758d1ee6f5e1.jpg?v=1777365112&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/40720_01_383e99e4-4c9c-4c40-a62d-955cea19003c.jpg?v=1777365113&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/40720_02_c1ce5d0d-d271-43c7-9361-8e554a750cc2.jpg?v=1777365113&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/40720_03.jpg?v=1777365113&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/40720_04_60697486-d60b-48b4-8346-67216f8d32aa.jpg?v=1777365113&width=400"
+    ],
+    "bulletPoints": [
+      "ATX / Micro ATX / ITX Metal Anakart Desteği",
+      "HD Ses Desteği",
+      "3x120mm Anakart Fan Desteği",
+      "160mm CPU Soğutucu Yüksekliği",
+      "445mm VGA Uzunluğu Sınırlaması",
+      "240mm PSU Uzunluğu Sınırlaması",
+      "420x285x385mm"
+    ],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [
+      "https://www.rampage.com.tr/cdn/shop/files/LOOPY-WHITE-1_2x_58f589a5-35bc-47ff-827f-a04423da552c.png?v=1745410551&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/LOOPY-WHITE-2_2x_4d818391-3bc5-4430-806e-83dc51a247fe.png?v=1745410548&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/LOOPY-WHITE-3_2x_75cc9077-cb29-4ba4-9be9-b8252b34ffce.png?v=1745410551&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/LOOPY-WHITE-4_2x_824fa768-e851-451a-972e-629c5e6e8102.png?v=1745410552&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/LOOPY-WHITE-5_2x_7560beb3-fd09-44e6-b99a-708c9e8fa18e.png?v=1745410553&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/LOOPY-WHITE-6_2x_e8eb029d-5c2b-4cb1-969a-046c1e1e0a74.png?v=1745410551&width=1200"
+    ],
+      "data": {
+        "genelozellikler": ["Marka: Rampage", "Model: Loopy", "Renk: Beyaz", "Boyut: 420x285x385mm", "Materyal: Metal"],
+        "teknikozellikler": [
+          "Malzeme Kalınlığı: 0,6mm", "Sol Panel: Temperli Cam", "Sağ Panel: Metal", "Uzaktan (IR veya RF): Hayır", "CPU Soğutucu Yüksekliği: Maks. 160mm",
+          "VGA Uzunluğu Sınırlaması: Maks. 445mm", "PSU Uzunluğu Sınırlaması: 240mm", "Net Ağırlık: 8,36 kg", "Brüt Ağırlık: 10,8 kg", "Kutu Boyutu: 460x285x398mm"
+        ],
+        "destekozellikler": [
+          "3.5 HDD: 2", "2,5 SSD: 3", "Ses Desteği: HD Ses 1 Adet", "Ön Fan Desteği: Hayır", "Üst Fan Desteği: 3x120mm",
+          "Arka Fan Desteği: 1x120mm", "Sol Fan Desteği: Hayır", "Anakart Fan Desteği: 3x120mm", "Anakart Desteği: ATX / Micro ATX / ITX Metal Örgü Siyah"
+        ],
+        "baglantiozellikleri": ["USB 2.0: 2 Adet", "TYPE-C: 1 Adet", "Mikrofon Girişi: 1 Adet 3.5mm Jak", "Kulaklık Girişi: 1 Adet 3.5mm Jak"],
+        "kutuicerigi": ["Rampage Loopy: 1x", "Kullanım Kılavuzu: 1x", "Garanti Belgesi: 1x", "Garanti Süresi: 24 Ay"]
+      }
+    }
+  },
+  {
+    "id": 92,
+    "slug": "750w-80-plus-bronze-temperli-camli-7x12cm-argb-fan-atx-mid-t-oyuncu-kasasi",
+    "title": "ARES",
+    "filters": {},
+    "subtitle": "750W 80 Plus Bronze Temperli Camlı 7x12cm ARGB Fan ATX Mid-T Oyuncu Kasası",
+    "categoryName": "PC Kasa",
+    "price": 6099,
+    "oldPrice": null,
+    "rating": 4.5,
+    "commentCount": 4,
+    "hasColorMode": 0,
+    "variants": [
+      {
+        "colorId": "c-beyaz",
+        "colorName": "Beyaz",
+        "colorCodes": ["#ffffff","#cccccc"],
+        "price": 6099,
+        "oldPrice": null ,
+        "mainImage": "https://www.rampage.com.tr/cdn/shop/files/42000_00_41e25e81-71e6-4159-9d9b-6297cf724d73.png?v=1763971846&width=400",
+        "images": [
+          "https://www.rampage.com.tr/cdn/shop/files/42000_05_78c3ac1d-125a-446e-9707-2af14eafc698.png?v=1766149803&width=400",
+          "https://www.rampage.com.tr/cdn/shop/files/42000_06_41c6fb69-9679-47c4-ad5f-1cd7f1165974.png?v=1766149803&width=400",
+          "https://www.rampage.com.tr/cdn/shop/files/42000_04_b5ed9e7a-0669-4d24-a924-02cad9589670.png?v=1766149803&width=400",
+          "https://www.rampage.com.tr/cdn/shop/files/42000_03_5ae5a111-2bb5-43f3-93d6-d591c6d85541.png?v=1766149803&width=400",
+          "https://www.rampage.com.tr/cdn/shop/files/42000_01_18269d80-fcb7-4b49-bf0c-901e6064cc8f.png?v=1766149803&width=400"
+        ]
+      },
+      {
+        "colorId": "c-siyah",
+        "colorName": "Siyah",
+        "colorCodes": ["#000","#000"],
+        "price": 6099,
+        "oldPrice": null ,
+        "mainImage": "https://www.rampage.com.tr/cdn/shop/files/41999_00_22dcd83a-fef4-4f15-a07e-5b509e766649.png?v=1768369033&width=400",
+        "images": [
+          "https://www.rampage.com.tr/cdn/shop/files/41999_06_b1759ed4-d3a3-4fbb-82ad-d56880cf8e4c.png?v=1768369033&width=400",
+          "https://www.rampage.com.tr/cdn/shop/files/41999_05_3ecebe31-5a37-4384-81de-4cc148eb0c52.png?v=1768369033&width=400",
+          "https://www.rampage.com.tr/cdn/shop/files/41999_04_fb09a971-4569-4876-94cf-ad9957d1cb8a.png?v=1768369033&width=400",
+          "https://www.rampage.com.tr/cdn/shop/files/41999_01_2fa8a19a-a5a5-4724-80ca-040e4b3ffac4.png?v=1768369033&width=400",
+          "https://www.rampage.com.tr/cdn/shop/files/41999_03_7c50ff68-f3ac-4e88-9ef1-a4ce461fdcb2.png?v=1768369033&width=400"
+        ]
+      }
+    ],
+    "defaultImages": [],
+    "bulletPoints": [
+      "ATX, Micro-ATX, ITX Anakart Desteği",
+      "400 mm Grafik Kartı Desteği",
+      "175 mm Cpu Soğutucu Desteği",
+      "425x285x400mm Kasa Boyutu",
+      "7 Adet 12cm ARGB Fan",
+      "750W Power"
+    ],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [
+      "https://www.rampage.com.tr/cdn/shop/files/ares1.png?v=1761512649&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/ares2.png?v=1761512647&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/ares3.png?v=1761512649&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/ares4.png?v=1761512646&width=1200"
+    ],
+      "data": {}
+    }
+  },
+  {
+    "id": 93,
+    "slug": "arcturus-temperli-camli-750w-80-plus-bronze-siyah-7-12cm-rgb-fan-atx-mid-t-gaming-oyuncu-kasasi-kopya",
+    "title": "ARCTURUS",
+    "filters": {},
+    "subtitle": "750W 80 Plus Bronze Atx Mid-T Oyuncu Kasası-Beyaz",
+    "categoryName": "PC Kasa",
+    "price": 6999,
+    "oldPrice": 7999,
+    "rating": 4.2,
+    "commentCount": 4,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/40663_00.png?v=1777375964&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/Untitled-3copy_a837c6ab-7ffc-481d-b026-225e0d2feb6c.png?v=1730385221&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/Untitled-7copy_751755e3-1adf-4f07-8038-616efa153673.png?v=1730385221&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/Untitled-2copy_951b7298-3909-4ee8-b630-d73c19c02e26.png?v=1730385221&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/Untitled-6copy_9e9872ab-327e-4b9c-8ed3-3c5d1817c3aa.png?v=1730385221&width=1200"
+    ],
+    "bulletPoints": [
+      "Temperli Cam",
+      "2 Adet Usb 2.0 -1 Adet Type-C",
+      "4x12cm RGB Fan",
+      "445 mm VGA Kart Desteği",
+      "160 mm Soğutucu Yüksekliği",
+      "RGB ve Fan Kontrolcü",
+      "420 x 285 x 385 mm"
+    ],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [
+      "https://www.rampage.com.tr/cdn/shop/files/row-1-column-1_9f2c3da4-b685-4759-850e-dcf891f92a2d.jpg?v=1768572784&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-2-column-1_c297654a-c049-4208-baae-bbb90caebe8c.jpg?v=1768572784&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-3-column-1_56216278-4611-42a7-814c-c8aed5d0a0d5.jpg?v=1768572783&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-4-column-1_b589b63c-1bc0-48db-bd87-78201fbdf353.jpg?v=1768572784&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-5-column-1_b0307820-3b1b-49d9-983c-7ddffd35df2a.jpg?v=1768572784&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-6-column-1_81ad18c3-7fe1-48e8-9147-bc4b05799ebc.jpg?v=1768572784&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-7-column-1_9c6db390-0b09-4d05-ad9a-4b64e0404e42.jpg?v=1768572783&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-8-column-1_d875f6e6-824d-4d04-ac56-8f96cffc5f9c.jpg?v=1768572784&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-9-column-1_7566f2f4-092c-4979-bff7-1385ec6831dd.jpg?v=1768572783&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-10-column-1_a89095c9-1cd3-4a1b-b1b8-bf3643bdef98.jpg?v=1768572783&width=1200"
+    ],
+      "data": {}
+    }
+  },
+  {
+    "id": 94,
+    "slug": "ares-v2-temperli-camli-siyah-7-12cm-argb-pwm-fan-kumanda-atx-mid-t-gaming-oyuncu-kasasi",
+    "title": "ARES V2",
+    "filters": {},
+    "subtitle": "Temperli Camlı Siyah 7*12cm ARGB Pwm Fan+Kumanda ATX Mid-T Gaming Oyuncu Kasası",
+    "categoryName": "PC Kasa",
+    "price": 3499,
+    "oldPrice": null,
+    "rating": 4.2,
+    "commentCount": 4,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/43527_00.jpg?v=1785912020&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/43527_01.jpg?v=1785912019&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/43527_02.jpg?v=1785912019&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/43527_03.jpg?v=1785912019&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/43527_04.jpg?v=1785912020&width=400"
+    ],
+    "bulletPoints": [
+      "Açıklama: Oyuncu Bilgisayar Kasası",
+      "Kasa Tipi: Mid Tower (Orta Boy Kasa)",
+      "Kasa Sac Kalınlığı: 0.7 mm",
+      "Kasa Malzemesi: Çelik, Temperli Cam",
+      "Anakart Desteği: ATX, Micro ATX, ITX",
+      "Yan Panel Fan Desteği: 3 x 120 mm (Ters Fan – Dahil)",
+      "Üst Panel: 3 x 120 mm fan veya 360 mm sıvı soğutma (Opsiyonel)",
+      "Alt Panel: 3 x 120 mm (Ters Fan – Dahil)",
+      "Arka Panel: 1 x 120 mm (Dahil)",
+      "Genişleme Yuvası: 7+2 Adet",
+      "Fan Tipi: ARGB PWM (Fan Hub + Kumanda Dahil)",
+      "Maksimum Ekran Kartı Uzunluğu: 400 mm",
+      "Maksimum İşlemci Soğutucu Yüksekliği: 175 mm",
+      "3.5 HDD Desteği: 1 Adet",
+      "2.5 SSD/HDD Desteği: 2 Adet",
+      "Ön Panel Bağlantıları (I/O):1 x USB 3.0 + 1 x USB 2.0",
+      "Kasa Ölçüleri (D x G x Y): 425 x 285 x 400 mm",
+      "Net Ağırlık (PSU ile): 6.3 kg",
+      "Brüt Ağırlık (PSU ile): 7.8 kg"
+    ],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [],
+      "data": {}
+    }
+  },
+  {
+    "id": 95,
+    "slug": "750w-80-plus-bronze-m-atx-temperli-camli-3x12cm-argb-fan-siyah-oyuncu-kasasi",
+    "title": "MINID V1",
+    "filters": {},
+    "subtitle": "750W 80Plus Bronze M-ATX Temperli Camlı 3x12cm ARGB Fan Siyah Oyuncu Kasası",
+    "categoryName": "PC Kasa",
+    "price": 3999,
+    "oldPrice": null,
+    "rating": 2.8,
+    "commentCount": 4,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/42794_00_780873c9-45a8-4370-bcca-1013ea02fe05.png?v=1777444379&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/42794_01.png?v=1767612804&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/42794_03.png?v=1767612804&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/42794_02.png?v=1767612804&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/42794_04.png?v=1767612804&width=400"
+    ],
+    "bulletPoints": [
+      "M-ATX",
+      "Temperli Camlı",
+      "3x12cm ARGB Fan",
+      "750W Power"
+    ],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [],
+      "data": {}
+    }
+  },
+  {
+    "id": 96,
+    "slug": "mesh-temperli-camli-750w-80-plus-bronze-beyaz-4x12cm-argb-fan-oyuncu-kasasi",
+    "title": "CRUISER V2",
+    "filters": {},
+    "subtitle": "Mesh Temperli Camlı 750W 80 Plus Bronze Beyaz 4x12cm ARGB Fan Oyuncu Kasası",
+    "categoryName": "PC Kasa",
+    "price": 4899,
+    "oldPrice": null,
+    "rating": 4.8,
+    "commentCount": 3,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/42336_00.png?v=1760073370&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/42336_01.png?v=1760073370&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/42336_05.png?v=1760441649&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/42336_04.png?v=1760441649&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/42336_02.png?v=1760441649&width=400"
+    ],
+    "bulletPoints": [],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [
+      "https://www.rampage.com.tr/cdn/shop/files/CRUISER-V2-1.png?v=1763550492&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/CRUISER-V2-2.png?v=1763550491&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/CRUISER-V2-3.png?v=1763550491&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/CRUISER-V2-4.png?v=1763550489&width=1200"
+    ],
+      "data": {}
+    }
+  },
+  {
+    "id": 97,
+    "slug": "rampage-blaze-mesh-temperli-camli-siyah-4-12cm-argb-fan-m-atx-mid-t-gaming-oyuncu-kasasi",
+    "title": "BLAZE",
+    "filters": {},
+    "subtitle": "Mesh Temperli Camlı 4x12cm ARGB Fan M-Atx Mid-T Oyuncu Kasası-Siyah",
+    "categoryName": "PC Kasa",
+    "price": 1829,
+    "oldPrice": null,
+    "rating": 4.8,
+    "commentCount": 2,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/11767.png?v=1719876622&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/11768.png?v=1719876622&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/11769.png?v=1719876622&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/11770.png?v=1719876622&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/11771.png?v=1719876622&width=400"
+    ],
+    "bulletPoints": [
+      "M-ATX / ITX Oyun Kasası",
+      "360 mm Grafik Kartı Desteği",
+      "168 mm CPU Soğutucu Desteği",
+      "1x USB 3.0 - 2x USB 2.0",
+      "Led Kontrol Tuşu -Ses -Mikrofon Çıkışı",
+      "390 X 225 X 430 Mm"
+    ],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [],
+      "data": {}
+    }
+  },
+  {
+    "id": 98,
+    "slug": "rampage-loopy-plus-siyah-7-12cm-argb-fan-950w-80-plus-standart-temperli-cam-kumandali-atx-mid-t-gaming-oyuncu-kasasi",
+    "title": "LOOPY PLUS",
+    "filters": {},
+    "subtitle": "950W 80 Plus 7x12cm ARGB Fan Kumandalı Atx Mid-T Oyuncu Kasası-Siyah",
+    "categoryName": "PC Kasa",
+    "price": 8099,
+    "oldPrice": null,
+    "rating": 3.8,
+    "commentCount": 3,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/40763_00.png?v=1763533856&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/40763_01.png?v=1763533856&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/40763_02.png?v=1763533856&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/40763_03.png?v=1763533856&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/40763_04.png?v=1763533856&width=400"
+    ],
+    "bulletPoints": [
+      "ATX / Micro ATX / ITX Anakart Desteği",
+      "HDD: 2, SSD: 3 İç Sürücü Yuvaları",
+      "HD Ses Desteği",
+      "Soğutucu Fan Desteği",
+      "445 mmVGA Kart Desteği",
+      "160 mm CPU Soğutucu Yüksekliği",
+      "240 mm PSU Uzunluğu",
+      "460 x 285 x 398 mm Kasa Boyutları"
+    ],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [
+      "https://www.rampage.com.tr/cdn/shop/files/loopy-plus-1.png?v=1762252351&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/loopy-plus-2.png?v=1762252338&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/loopy-plus-3.png?v=1762252363&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/loopy-plus-4.png?v=1762252339&width=1200"
+    ],
+      "data": {}
+    }
+  },
+  {
+    "id": 99,
+    "slug": "66s-smooth-siyah-1-usb-3-0-2-usb-2-0-1-12cm-rainbow-fan-kasa-kopya",
+    "title": "ARCTURUS",
+    "filters": {},
+    "subtitle": "Temperli Camlı 750W 80 Plus Bronze Atx Mid-T Oyuncu Kasası-Siyah",
+    "categoryName": "PC Kasa",
+    "price": 7899,
+    "oldPrice": 8899,
+    "rating": 4.3,
+    "commentCount": 4,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/Untitled-2copy_e276cd24-f35d-4c89-9e13-bcd773ece630.png?v=1730385146&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/Untitled-3copy_ea720357-0541-428f-af38-abf59d056251.png?v=1730385146&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/Untitled-7copy_333b6565-14bd-48b7-b221-8d696401fe46.png?v=1730385146&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/Untitled-4copy_e04d8691-4e75-448b-86b8-3d69484c47fe.png?v=1730385146&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/Untitled-5copy_d3f1d314-02fa-4928-b6b0-5052a52c51c4.png?v=1730385147&width=400"
+    ],
+    "bulletPoints": [
+      "Temperli Cam",
+      "2 Adet Usb 2.0 -1 Adet Type-C",
+      "4x12cm RGB Fan",
+      "445 mm VGA Kart Desteği",
+      "160 mm Soğutucu Yüksekliği",
+      "RGB ve Fan Kontrolcü",
+      "420 x 285 x 385 mm"
+    ],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [
+      "hhttps://www.rampage.com.tr/cdn/shop/files/row-1-column-1_59b5a2e2-4434-4c3b-964d-c06f8fdce4cb.jpg?v=1768573066&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-2-column-1_5004e2da-0698-415c-b438-785930f2aef6.jpg?v=1768573066&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-3-column-1_2f859264-08e0-4c98-b09d-88af275d70f5.jpg?v=1768573065&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-4-column-1_7bc11136-b5da-44fa-a35a-38503a2925ad.jpg?v=1768573065&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-5-column-1_f3932290-20bb-48fa-8927-dab7ba72ab95.jpg?v=1768573066&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-6-column-1_7bad0fb4-e91f-45bb-90bc-d99bbe6a2143.jpg?v=1768573066&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-7-column-1_d843888f-97d2-467c-a48f-dc15ad9ae3a1.jpg?v=1768573065&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-8-column-1_d901924f-fa33-4be2-9f98-502ae0271b63.jpg?v=1768573066&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-9-column-1_7631f113-9c2b-4282-8c74-2f2f38155bf9.jpg?v=1768573065&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/row-10-column-1_9b001e79-f3a1-4419-a8a2-4e47b88e8369.jpg?v=1768573065&width=1200"
+    ],
+      "data": {}
+    }
+  },
+  {
+    "id": 100,
+    "slug": "nova-9-16-lcd-ekranli-hub-kumanda-siyah-7x12cm-argb-fan-kumanda-gaming-oyuncu-kasasi",
+    "title": "NOVA",
+    "filters": {},
+    "subtitle": "Lcd Ekranlı 7x12cm ARGB Fan+Kumanda Oyuncu Kasası-Siyah",
+    "categoryName": "PC Kasa",
+    "price": 7499,
+    "oldPrice": 8000,
+    "rating": 4.8,
+    "commentCount": 5,
+    "hasColorMode": 0,
+    "variants": [],
+    "defaultImages": [
+      "https://www.rampage.com.tr/cdn/shop/files/42671_00_2c830d05-fc61-45fd-99ee-12431fc569d1.png?v=1785154498&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/42671_01_d3a12fb8-6e0e-468a-9830-114ea3c3b9e8.png?v=1785154498&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/42671_02_5ee7a65f-6f70-4135-8e60-75c0522e0897.png?v=1785154498&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/42671_03_b68de8e1-6706-4ad1-a9a2-be0d1e7a5682.png?v=1785154498&width=400",
+      "https://www.rampage.com.tr/cdn/shop/files/42671_04_61b3b11f-31d7-4afe-a09f-153ec8d7c72d.png?v=1785154498&width=400"
+    ],
+    "bulletPoints": [
+      "ATX / MICRO ATX / MINI ITX Anakart Desteği",
+      "3x120mm Anakart Fan Desteği",
+      "157mm CPU Soğutucu Yüksekliği",
+      "418x280x435mm Kasa Boyutu",
+      "400mm Max GPU uzunluğu"
+    ],
+    "technicalSpecs": {
+      "type": "images",
+      "images": [
+      "https://www.rampage.com.tr/cdn/shop/files/nova-1.png?v=1759923134&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/nova-2.png?v=1759923133&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/nova-3.png?v=1759923133&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/nova-4.png?v=1759923131&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/LOOPY-WHITE-5_2x_7560beb3-fd09-44e6-b99a-708c9e8fa18e.png?v=1745410553&width=1200",
+      "https://www.rampage.com.tr/cdn/shop/files/LOOPY-WHITE-6_2x_e8eb029d-5c2b-4cb1-969a-046c1e1e0a74.png?v=1745410551&width=1200"
+    ],
+      "data": {
+        "genelozellikler": ["Marka: Rampage", "Model: Loopy", "Renk: Beyaz", "Boyut: 420x285x385mm", "Materyal: Metal"],
+        "teknikozellikler": [
+          "Malzeme Kalınlığı: 0,6mm", "Sol Panel: Temperli Cam", "Sağ Panel: Metal", "Uzaktan (IR veya RF): Hayır", "CPU Soğutucu Yüksekliği: Maks. 160mm",
+          "VGA Uzunluğu Sınırlaması: Maks. 445mm", "PSU Uzunluğu Sınırlaması: 240mm", "Net Ağırlık: 8,36 kg", "Brüt Ağırlık: 10,8 kg", "Kutu Boyutu: 460x285x398mm"
+        ],
+        "destekozellikler": [
+          "3.5 HDD: 2", "2,5 SSD: 3", "Ses Desteği: HD Ses 1 Adet", "Ön Fan Desteği: Hayır", "Üst Fan Desteği: 3x120mm",
+          "Arka Fan Desteği: 1x120mm", "Sol Fan Desteği: Hayır", "Anakart Fan Desteği: 3x120mm", "Anakart Desteği: ATX / Micro ATX / ITX Metal Örgü Siyah"
+        ],
+        "baglantiozellikleri": ["USB 2.0: 2 Adet", "TYPE-C: 1 Adet", "Mikrofon Girişi: 1 Adet 3.5mm Jak", "Kulaklık Girişi: 1 Adet 3.5mm Jak"],
+        "kutuicerigi": ["Rampage Loopy: 1x", "Kullanım Kılavuzu: 1x", "Garanti Belgesi: 1x", "Garanti Süresi: 24 Ay"]
+      }
     }
   }
 ]
